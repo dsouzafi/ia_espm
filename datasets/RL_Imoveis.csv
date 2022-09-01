@@ -1,0 +1,62 @@
+Imovel,Cidade,Bairro,Tipo do imovel,Dormitorio,Suite,Banheiro,Vaga,Area Util (m2),Valor de venda (kR$)
+1,Santos,Boqueirao,Apartamento,2,0,1,1,74,300.0
+2,Santos,Boqueirao,Apartamento,2,1,1,1,100,470.0
+3,Santos,Gonzaga,Apartamento,2,0,2,1,83,350.0
+4,Santos,Jose Menino,Apartamento Sala Living,1,0,1,1,35,175.0
+5,Santos,Encruzilhada,Apartamento,2,1,2,1,68,470.0
+6,Santos,Aparecida,Apartamento Kitchenette,1,0,1,0,36,175.0
+7,Santos,Castelo,Apartamento,3,1,2,1,64,299.0
+8,Santos,Castelo,Apartamento,2,0,1,1,49,231.75
+9,Santos,Pompeia,Apartamento,1,0,1,1,75,248.0
+10,Santos,Morro Nova Cintra,Apartamento,2,0,1,1,57,220.0
+11,Santos,Jose Menino,Apartamento Sala Living,1,0,1,1,35,175.0
+12,Santos,Ponta da Praia,Apartamento,3,2,4,2,132,850.0
+13,Santos,Ponta da Praia,Apartamento,3,2,4,2,132,850.0
+14,Santos,Pompeia,Apartamento,2,1,2,1,88,620.0
+15,Santos,Boqueirao,Apartamento,4,1,3,2,156,980.0
+16,Santos,Gonzaga,Apartamento,3,3,3,1,127,1000.0
+17,Santos,Boqueirao,Apartamento Cobertura,4,4,0,4,550,2500.0
+18,Santos,Gonzaga,Flat,2,1,1,1,57,400.0
+19,Santos,Boqueirao,Apartamento,1,0,1,1,47,220.0
+20,Santos,Boqueirao,Apartamento,3,2,4,1,160,980.0
+21,Santos,Jose Menino,Apartamento,2,0,1,1,100,425.0
+22,Santos,Boqueirao,Apartamento,2,0,1,1,68,320.0
+23,Santos,Aparecida,Apartamento,2,0,2,1,86,400.0
+24,Santos,Marape,Apartamento,2,1,3,2,84,450.0 
+25,Santos,Jose Menino,Apartamento,2,1,3,2,80,630.0
+26,Santos,Boqueirao,Apartamento,4,4,0,2,289,1197.0 
+27,Santos,Aparecida,Apartamento,2,0,1,1,65,330.0
+28,Santos,Gonzaga,Apartamento Sala Living,1,0,1,1,27,200.0
+29,Santos,Boqueirao,Apartamento,3,1,3,1,140,460.0
+30,Santos,Boqueirao,Apartamento,2,0,2,1,90,490.0
+31,Santos,Boqueirao,Apartamento,2,2,3,1,98,550.0
+32,Santos,Boqueirao,Apartamento,4,3,6,3,211,1750.0
+33,Santos,Aparecida,Apartamento,4,2,4,2,218,790.0
+34,Santos,Aparecida,Apartamento,1,0,1,1,49,300.0
+35,Santos,Aparecida,Apartamento,3,3,4,2,283,2800.0
+36,Santos,Marape,Apartamento,2,1,2,1,63,320.0
+37,Santos,Marape,Apartamento,3,1,2,2,84,448.0
+38,Santos,Boqueirao,Apartamento,3,1,3,2,175,695.0 
+39,Santos,Boqueirao,Apartamento,2,1,2,1,97,338.0
+40,Santos,Boqueirao,Apartamento,2,0,2,1,97,370.0
+41,Santos,Boqueirao,Apartamento,3,2,3,1,136,450.0 
+42,Santos,Vila Mathias,Apartamento,2,0,2,1,68,114.31
+43,Santos,Gonzaga,Apartamento,2,2,3,2,121,1150.0
+44,Santos,Macuco,Apartamento,2,0,1,0,58,172.0
+45,Santos,Boqueirao,Apartamento,3,1,2,2,93,570.0
+46,Santos,Vila Belmiro,Apartamento,2,1,3,1,84,390.0
+47,Santos,Boqueirao,Apartamento,4,4,6,3,270,2400.0
+48,Santos,Boqueirao,Apartamento,0,4,6,3,294,2000.0 
+49,Santos,Embare,Apartamento,1,0,1,1,58,240.0 
+50,Santos,Vila Belmiro,Apartamento,1,1,1,1,54,238.0
+51,Santos,Embare,Apartamento,1,0,1,1,55,260.0
+52,Santos,Boqueirao,Apartamento,4,2,4,5,238,1050.0
+53,Santos,Boqueirao,Apartamento,1,0,1,1,56,320.0
+54,Santos,Ponta da Praia,Apartamento,2,1,2,2,127,720.0
+55,Santos,Santa Maria,Apartamento,2,0,1,1,85,210.0
+56,Santos,Boqueirao,Apartamento,2,0,2,1,77,285.0
+57,Santos,Boqueirao,Apartamento,1,0,2,1,100,370.0
+58,Santos,Boqueirao,Apartamento,2,0,1,1,76,279.0
+59,Santos,Boqueirao,Apartamento,2,0,1,1,68,310.0
+60,Santos,Boqueirao,Apartamento,2,1,2,1,82,480.0 
+61,Santos,Boqueirao,Apartamento,3,0,2,1,89,500.0
