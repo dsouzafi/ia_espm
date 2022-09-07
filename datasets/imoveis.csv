@@ -1,4 +1,4 @@
-Imovel,Cidade,Bairro,Tipo do imovel,Dormitorio,Suite,Banheiro,Vaga,Area Util (m2),Valor de venda (kR$)
+Imovel,Cidade,Bairro,Tipo do imovel,Dormitorio,Suite,Banheiro,Vaga,Area Util,Valor de venda
 1,Santos,Boqueirao,Apartamento,2,0,1,1,74,300.0
 2,Santos,Boqueirao,Apartamento,2,1,1,1,100,470.0
 3,Santos,Gonzaga,Apartamento,2,0,2,1,83,350.0
