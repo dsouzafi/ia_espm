@@ -1,4 +1,4 @@
-Data,TempMaxima(C),Precipitacao(mm),FinalSemana,Consumo(litros)
+Data,TempMaxima,Precipitacao,FinalSemana,Consumo
 2015-01-01,32.5,0,Nao,25461
 2015-01-02,33.5,0,Sim,28972
 2015-01-03,29.9,0,Sim,30814
