@@ -1,0 +1,1017 @@
+ID,Produto,Marca,Modelo,Vendedor,Class_Vendedor,Atividade,Comprador,Cidade,Estado,Preço,Data,Avaliação
+A1,Smartphone,Samsung,Galaxy S10,Eletronics Inc.,4,24,João Silva,São Paulo,São Paulo,1500,2023-05-01 10:30:00,4
+B2,Notebook,Dell,Inspiron 15,Mega Store,3,10,Maria Santos,Rio de Janeiro,Rio de Janeiro,3500,2023-05-01 11:15:00,5
+C3,Smart TV,LG,OLED55C9,Tech Shop,5,36,José Lima,Belo Horizonte,Minas Gerais,5000,2023-05-01 12:20:00,3
+D4,Smartphone,Apple,iPhone 12,Best Deals,2,6,Ana Costa,Brasília,Distrito Federal,6000,2023-05-01 14:45:00,5
+E5,Notebook,HP,Pavilion X360,Info Shop,5,48,Pedro Santos,Porto Alegre,Rio Grande do Sul,3000,2023-05-01 15:30:00,4
+F6,Smart TV,Sony,XBR-65A8G,Tech Store,4,20,Carolina Silva,Salvador,Bahia,4500,2023-05-01 16:10:00,3
+G7,Smartphone,Xiaomi,Redmi Note 8,Mobile Center,3,12,Lucas Oliveira,Recife,Pernambuco,1200,2023-05-01 16:45:00,4
+H8,Notebook,Lenovo,Ideapad 330,Mega Store,5,30,Mariana Costa,Curitiba,Paraná,2500,2023-05-01 17:20:00,5
+I9,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,28,Gabriel Ferreira,Florianópolis,Santa Catarina,5500,2023-05-01 18:00:00,5
+J10,Smartphone,Motorola,Moto G Power,Best Deals,3,8,Rafael Lima,Manaus,Amazonas,800,2023-05-01 18:45:00,4
+K11,Notebook,Acer,Aspire 5,Info Shop,4,36,Renata Oliveira,Belém,Pará,2800,2023-05-01 19:30:00,3
+L12,Smart TV,TCL,50S425,Tech Store,3,14,Ricardo Santos,Goiânia,Goiás,2000,2023-05-01 20:15:00,4
+M13,Smartphone,Oppo,Find X2 Pro,Mobile Center,5,42,Fernanda Silva,Vitória,Espírito Santo,4500,2023-05-01 21:00:00,5
+N14,Notebook,Asus,ROG Strix,Mega Store,5,22,Anderson Santos,Natal,Rio Grande do Norte,5500,2023-05-01 21:45:00,5
+O15,Smart TV,Panasonic,Viera,Eletronics Inc.,4,16,Juliana Lima,Campinas,São Paulo,3500,2023-05-01 22:30:00,4
+P16,Smartphone,Huawei,P40 Pro,Best Deals,3,8,Amanda Ferreira,Fortaleza,Ceará,3000,2023-05-01 23:15:00,5
+Q17,Notebook,Samsung,Odyssey,Info Shop,4,38,Rodrigo Silva,São Luís,Maranhão,7000,2023-05-02 00:00:00,4
+R18,Smart TV,Philips,55PUS7805/12,Tech Store,5,32,Camila Oliveira,João Pessoa,Paraíba,4000,2023-05-02 00:45:00,3
+S19,Smartphone,Xiaomi,Mi 11,Mobile Center,5,12,Matheus Santos,Teresina,Piauí,1800,2023-05-02 01:30:00,4
+T20,Notebook,Dell,XPS 13,Mega Store,4,26,Larissa Costa,Florianópolis,Santa Catarina,6000,2023-05-02 02:15:00,5
+U21,Smart TV,LG,NanoCell,Eletronics Inc.,3,18,Marcelo Silva,Salvador,Bahia,2500,2023-05-02 03:00:00,4
+V22,Smartphone,Apple,iPhone SE,Best Deals,5,10,Raquel Lima,Belo Horizonte,Minas Gerais,3500,2023-05-02 03:45:00,5
+W23,Notebook,HP,Spectre x360,Info Shop,4,34,Gustavo Oliveira,Cuiabá,Mato Grosso,5500,2023-05-02 04:30:00,4
+X24,Smart TV,Samsung,TU7000,Eletronics Inc.,4,14,Patrícia Santos,Porto Velho,Rondônia,3000,2023-05-02 05:15:00,3
+Y25,Smartphone,OnePlus,9 Pro,Mobile Center,5,40,Luciana Oliveira,Maceió,Alagoas,5000,2023-05-02 06:00:00,5
+Z26,Notebook,Lenovo,ThinkPad X1,Mega Store,5,20,Gabriel Lima,Recife,Pernambuco,4500,2023-05-02 06:45:00,4
+AA27,Smart TV,Sony,BRAVIA X80J,Tech Store,4,12,André Santos,Manaus,Amazonas,4000,2023-05-02 07:30:00,3
+AB28,Smartphone,Google,Pixel 5,Best Deals,3,24,Daniela Costa,Belo Horizonte,Minas Gerais,3000,2023-05-02 08:15:00,5
+AC29,Notebook,Acer,Swift 3,Info Shop,5,30,Eduardo Silva,Porto Alegre,Rio Grande do Sul,2800,2023-05-02 09:00:00,4
+AD30,Smart TV,LG,UN7300,Tech Store,3,14,Carolina Oliveira,Fortaleza,Ceará,2500,2023-05-02 09:45:00,3
+AE31,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,4,18,Rodrigo Costa,Curitiba,Paraná,1500,2023-05-02 10:30:00,4
+AF32,Notebook,Dell,Inspiron 14,Mega Store,5,22,Isabela Santos,Recife,Pernambuco,4000,2023-05-02 11:15:00,5
+AG33,Smart TV,Samsung,QLED Q60T,Eletronics Inc.,4,28,Lucas Lima,Salvador,Bahia,3500,2023-05-02 12:00:00,5
+AH34,Smartphone,Apple,iPhone 11,Best Deals,5,12,Amanda Oliveira,São Paulo,São Paulo,5000,2023-05-02 12:45:00,4
+AI35,Notebook,Lenovo,Ideapad L340,Info Shop,4,16,Marcela Costa,Belo Horizonte,Minas Gerais,3000,2023-05-02 13:30:00,3
+AJ36,Smart TV,Sony,XBR-55X805G,Tech Store,5,32,Gabriel Santos,Campinas,São Paulo,4500,2023-05-02 14:15:00,5
+AK37,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,3,20,Mariana Lima,Rio de Janeiro,Rio de Janeiro,2500,2023-05-02 15:00:00,4
+AL38,Notebook,Asus,VivoBook 15,Mega Store,5,18,Rafael Oliveira,Florianópolis,Santa Catarina,3500,2023-05-02 15:45:00,5
+AM39,Smart TV,LG,OLED CX,Tech Store,4,26,Luiza Santos,Porto Alegre,Rio Grande do Sul,5500,2023-05-02 16:30:00,4
+AN40,Smartphone,Xiaomi,Mi 10T Pro,Mobile Center,5,38,Isabella Costa,São Paulo,São Paulo,4000,2023-05-02 17:15:00,3
+AO41,Notebook,HP,Envy x360,Info Shop,3,10,João Oliveira,Belo Horizonte,Minas Gerais,4500,2023-05-02 18:00:00,4
+AP42,Smart TV,Samsung,TU8000,Eletronics Inc.,5,24,Maria Lima,Recife,Pernambuco,3000,2023-05-02 18:45:00,5
+AQ43,Smartphone,Apple,iPhone XR,Best Deals,4,16,Carlos Santos,Salvador,Bahia,5000,2023-05-02 19:30:00,5
+AR44,Notebook,Dell,G3 15,Mega Store,4,22,Sabrina Costa,Curitiba,Paraná,3800,2023-05-02 20:15:00,4
+AS45,Smart TV,Sony,BRAVIA X90J,Tech Store,5,32,André Oliveira,Manaus,Amazonas,5500,2023-05-02 21:00:00,5
+AT46,Smartphone,Motorola,Moto E7 Plus,Best Deals,3,14,Lucas Lima,Porto Alegre,Rio Grande do Sul,1500,2023-05-02 21:45:00,3
+AU47,Notebook,Acer,Predator Helios 300,Info Shop,5,26,Juliana Santos,Fortaleza,Ceará,6000,2023-05-02 22:30:00,4
+AV48,Smart TV,LG,UN8500,Eletronics Inc.,4,20,Gabriel Costa,São Luís,Maranhão,4000,2023-05-02 23:15:00,5
+AW49,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Isabela Oliveira,Belo Horizonte,Minas Gerais,1200,2023-05-02 23:59:00,4
+AX50,Notebook,Lenovo,Ideapad S145,Mega Store,5,18,Mateus Santos,Recife,Pernambuco,2500,2023-05-03 00:45:00,5
+AY51,Smart TV,Samsung,QLED Q70T,Tech Store,4,24,Larissa Oliveira,São Paulo,São Paulo,3500,2023-05-03 01:30:00,4
+AZ52,Smartphone,Apple,iPhone SE 2020,Best Deals,5,28,Enzo Lima,Goiânia,Goiás,2800,2023-05-03 02:15:00,3
+BA53,Notebook,HP,EliteBook 840,Info Shop,4,16,Amanda Costa,Campinas,São Paulo,5500,2023-05-03 03:00:00,5
+BB54,Smart TV,LG,UN7300,Eletronics Inc.,3,14,Rodrigo Santos,Salvador,Bahia,2000,2023-05-03 03:45:00,4
+BC55,Smartphone,Xiaomi,Poco X3 Pro,Mobile Center,5,30,Carolina Oliveira,Recife,Pernambuco,1800,2023-05-03 04:30:00,3
+BD56,Notebook,Dell,Inspiron 13,Mega Store,4,20,André Lima,Porto Alegre,Rio Grande do Sul,4000,2023-05-03 05:15:00,5
+BE57,Smart TV,Sony,XBR-65A9G,Tech Store,5,36,Juliana Santos,Belo Horizonte,Minas Gerais,4500,2023-05-03 06:00:00,4
+BF58,Smartphone,Samsung,Galaxy A72,Eletronics Inc.,4,22,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-03 06:45:00,5
+BG59,Notebook,Asus,ROG Zephyrus,Mega Store,5,32,Isabela Costa,Florianópolis,Santa Catarina,6000,2023-05-03 07:30:00,5
+BH60,Smart TV,Panasonic,Viera,Tech Store,4,18,Matheus Santos,Manaus,Amazonas,3500,2023-05-03 08:15:00,4
+BI61,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,10,Larissa Oliveira,Belo Horizonte,Minas Gerais,3000,2023-05-03 09:00:00,5
+BJ62,Notebook,Samsung,Notebook 9,Info Shop,4,24,Rafael Lima,Curitiba,Paraná,4500,2023-05-03 09:45:00,4
+BK63,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,28,Carolina Costa,São Paulo,São Paulo,4000,2023-05-03 10:30:00,5
+BL64,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,4,14,Gustavo Oliveira,Fortaleza,Ceará,1500,2023-05-03 11:15:00,4
+BM65,Notebook,Lenovo,Ideapad 330S,Mega Store,5,36,Isabela Santos,Recife,Pernambuco,2500,2023-05-03 12:00:00,5
+BN66,Smart TV,Samsung,TU8500,Tech Store,4,30,Lucas Lima,Salvador,Bahia,3500,2023-05-03 12:45:00,4
+BO67,Smartphone,Apple,iPhone 12 Pro,Best Deals,5,26,Amanda Oliveira,Belo Horizonte,Minas Gerais,5000,2023-05-03 13:30:00,3
+BP68,Notebook,Asus,VivoBook 14,Info Shop,3,12,Marcos Santos,Porto Alegre,Rio Grande do Sul,3000,2023-05-03 14:15:00,4
+BQ69,Smart TV,LG,OLED B9,Eletronics Inc.,5,18,Juliana Costa,Campinas,São Paulo,4500,2023-05-03 15:00:00,5
+BR70,Smartphone,Motorola,Moto G60,Mobile Center,4,22,Rodrigo Lima,Recife,Pernambuco,2500,2023-05-03 15:45:00,3
+BS71,Notebook,Dell,Inspiron 15,Mega Store,5,34,Larissa Oliveira,Florianópolis,Santa Catarina,4000,2023-05-03 16:30:00,4
+BT72,Smart TV,Sony,XBR-55A8G,Tech Store,4,28,André Santos,São Paulo,São Paulo,4500,2023-05-03 17:15:00,5
+BU73,Smartphone,Samsung,Galaxy M51,Eletronics Inc.,3,16,Carolina Oliveira,Goiânia,Goiás,1800,2023-05-03 18:00:00,4
+BV74,Notebook,Acer,Aspire 5,Info Shop,4,20,Gabriel Costa,Belo Horizonte,Minas Gerais,3500,2023-05-03 18:45:00,5
+BW75,Smart TV,LG,UN7000,Tech Store,5,38,Isabela Oliveira,Manaus,Amazonas,2800,2023-05-03 19:30:00,5
+BX76,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,12,João Oliveira,Porto Alegre,Rio Grande do Sul,1200,2023-05-03 20:15:00,3
+BY77,Notebook,Lenovo,ThinkBook 14,Mega Store,4,26,Lucas Lima,São Paulo,São Paulo,4000,2023-05-03 21:00:00,5
+BZ78,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,5,32,Juliana Santos,Recife,Pernambuco,5500,2023-05-03 21:45:00,5
+CA79,Smartphone,Apple,iPhone 12,Best Deals,4,18,Matheus Oliveira,Belo Horizonte,Minas Gerais,5000,2023-05-03 22:30:00,4
+CB80,Notebook,Dell,Inspiron 14,Info Shop,5,32,Sabrina Costa,Curitiba,Paraná,3800,2023-05-03 23:15:00,4
+CC81,Smart TV,Sony,BRAVIA X95J,Tech Store,4,28,Isabela Santos,São Paulo,São Paulo,5500,2023-05-03 23:59:00,5
+CD82,Smartphone,Motorola,Moto G40 Fusion,Mobile Center,5,36,Gabriel Lima,Goiânia,Goiás,1800,2023-05-04 00:45:00,4
+CE83,Notebook,Acer,Aspire 3,Mega Store,4,14,Larissa Oliveira,Manaus,Amazonas,2000,2023-05-04 01:30:00,3
+CF84,Smart TV,LG,UN7300,Eletronics Inc.,5,22,Matheus Santos,Salvador,Bahia,3500,2023-05-04 02:15:00,4
+CG85,Smartphone,Xiaomi,Redmi Note 8T,Mobile Center,3,16,Rodrigo Lima,Campinas,São Paulo,1500,2023-05-04 03:00:00,5
+CH86,Notebook,Lenovo,Ideapad S145,Info Shop,5,26,Carolina Oliveira,Belo Horizonte,Minas Gerais,2500,2023-05-04 03:45:00,4
+CI87,Smart TV,Samsung,TU8000,Tech Store,4,30,André Santos,Rio de Janeiro,Rio de Janeiro,3000,2023-05-04 04:30:00,5
+CJ88,Smartphone,Apple,iPhone XR,Best Deals,5,34,Gustavo Lima,Curitiba,Paraná,4500,2023-05-04 05:15:00,4
+CK89,Notebook,Dell,G3 15,Mega Store,4,18,Larissa Costa,Florianópolis,Santa Catarina,4000,2023-05-04 06:00:00,5
+CL90,Smart TV,Sony,XBR-55A9G,Tech Store,5,28,André Oliveira,Porto Alegre,Rio Grande do Sul,4500,2023-05-04 06:45:00,4
+CM91,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,3,10,Amanda Santos,São Paulo,São Paulo,2500,2023-05-04 07:30:00,5
+CN92,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Belo Horizonte,Minas Gerais,6000,2023-05-04 08:15:00,4
+CO93,Smart TV,Panasonic,Viera,Tech Store,4,20,Luiza Oliveira,Campinas,São Paulo,3500,2023-05-04 09:00:00,5
+CP94,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,14,Juliana Lima,Goiânia,Goiás,3000,2023-05-04 09:45:00,4
+CQ95,Notebook,Samsung,Notebook 9,Info Shop,4,24,Lucas Santos,Recife,Pernambuco,4500,2023-05-04 10:30:00,5
+CR96,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,30,Carolina Oliveira,São Luís,Maranhão,4000,2023-05-04 11:15:00,4
+CS97,Smartphone,Xiaomi,Poco X3 Pro,Mobile Center,4,26,Gabriel Costa,Fortaleza,Ceará,1800,2023-05-04 12:00:00,3
+CT98,Notebook,Dell,Inspiron 13,Mega Store,5,32,Isabela Lima,Porto Alegre,Rio Grande do Sul,4000,2023-05-04 12:45:00,5
+CU99,Smart TV,Sony,XBR-65A8G,Tech Store,4,14,Mateus Santos,Belo Horizonte,Minas Gerais,4500,2023-05-04 13:30:00,4
+CV100,Smartphone,Samsung,Galaxy A71,Eletronics Inc.,5,38,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-04 14:15:00,5
+CW101,Notebook,Acer,Aspire 5,Info Shop,4,22,Juliana Costa,Curitiba,Paraná,3500,2023-05-04 15:00:00,4
+CX102,Smart TV,LG,UN7000,Tech Store,5,28,Gustavo Santos,São Paulo,São Paulo,2800,2023-05-04 15:45:00,5
+CY103,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,12,Larissa Oliveira,Goiânia,Goiás,1200,2023-05-04 16:30:00,3
+CZ104,Notebook,Lenovo,ThinkBook 14,Mega Store,4,18,Marcos Lima,São Luís,Maranhão,3000,2023-05-04 17:15:00,4
+DA105,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,5,24,Isabela Costa,Campinas,São Paulo,5500,2023-05-04 18:00:00,5
+DB106,Smartphone,Apple,iPhone 12,Best Deals,4,30,Lucas Santos,Fortaleza,Ceará,5000,2023-05-04 18:45:00,4
+DC107,Notebook,Dell,Inspiron 14,Info Shop,5,36,Sabrina Costa,Belo Horizonte,Minas Gerais,3800,2023-05-04 19:30:00,5
+DD108,Smart TV,Sony,BRAVIA X95J,Tech Store,4,20,Isabela Santos,Manaus,Amazonas,5500,2023-05-04 20:15:00,5
+DE109,Smartphone,Motorola,Moto G40 Fusion,Mobile Center,5,26,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-04 21:00:00,4
+DF110,Notebook,Acer,Aspire 3,Mega Store,4,14,Larissa Oliveira,Salvador,Bahia,2000,2023-05-04 21:45:00,3
+DG111,Smart TV,LG,UN7300,Eletronics Inc.,5,22,Matheus Santos,Recife,Pernambuco,3500,2023-05-04 22:30:00,4
+DH112,Smartphone,Xiaomi,Redmi Note 8T,Mobile Center,3,16,Rodrigo Lima,Belo Horizonte,Minas Gerais,1500,2023-05-04 23:15:00,5
+DI113,Notebook,Lenovo,Ideapad S145,Info Shop,5,26,Carolina Oliveira,São Luís,Maranhão,2500,2023-05-04 23:59:00,4
+DJ114,Smart TV,Samsung,TU8000,Tech Store,4,30,André Santos,Campinas,São Paulo,3000,2023-05-05 00:45:00,5
+DK115,Smartphone,Apple,iPhone XR,Best Deals,5,34,Gustavo Lima,Recife,Pernambuco,4500,2023-05-05 01:30:00,4
+DL116,Notebook,Dell,G3 15,Mega Store,4,18,Larissa Costa,Goiânia,Goiás,4000,2023-05-05 02:15:00,5
+DM117,Smart TV,Sony,XBR-55A9G,Tech Store,5,28,André Oliveira,Manaus,Amazonas,4500,2023-05-05 03:00:00,4
+DN118,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,3,10,Amanda Santos,Porto Alegre,Rio Grande do Sul,2500,2023-05-05 03:45:00,5
+DO119,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Curitiba,Paraná,6000,2023-05-05 04:30:00,4
+DP120,Smart TV,Panasonic,Viera,Tech Store,4,20,Luiza Oliveira,Manaus,Amazonas,3500,2023-05-05 05:15:00,5
+DQ121,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,14,Juliana Lima,Belo Horizonte,Minas Gerais,3000,2023-05-05 06:00:00,4
+DR122,Notebook,Samsung,Notebook 9,Info Shop,4,24,Lucas Santos,Campinas,São Paulo,4500,2023-05-05 06:45:00,5
+DS123,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,30,Carolina Oliveira,São Luís,Maranhão,4000,2023-05-05 07:30:00,4
+DT124,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1500,2023-05-05 08:15:00,4
+DU125,Notebook,Lenovo,Ideapad 330S,Mega Store,5,32,Isabela Lima,Recife,Pernambuco,3000,2023-05-05 09:00:00,3
+DV126,Smart TV,Samsung,TU7000,Tech Store,4,14,Mateus Santos,Manaus,Amazonas,2500,2023-05-05 09:45:00,5
+DW127,Smartphone,Apple,iPhone 11,Best Deals,5,38,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-05 10:30:00,5
+DX128,Notebook,Dell,Inspiron 15,Info Shop,4,22,Juliana Costa,Curitiba,Paraná,3500,2023-05-05 11:15:00,4
+DY129,Smart TV,LG,UN8000,Tech Store,5,28,Gustavo Santos,São Paulo,São Paulo,3200,2023-05-05 11:59:00,5
+DZ130,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Larissa Oliveira,Goiania,Goiás,1200,2023-05-05 12:45:00,3
+EA131,Notebook,Lenovo,ThinkPad X1,Mega Store,4,18,Marcos Lima,Porto Alegre,Rio Grande do Sul,5500,2023-05-05 13:30:00,5
+EB132,Smart TV,Samsung,QLED Q60T,Eletronics Inc.,5,24,Isabela Costa,Campinas,São Paulo,4800,2023-05-05 14:15:00,4
+EC133,Smartphone,Apple,iPhone SE,Best Deals,4,30,Lucas Santos,Fortaleza,Ceará,3500,2023-05-05 15:00:00,5
+ED134,Notebook,Dell,Inspiron 14,Info Shop,5,36,Sabrina Costa,Belo Horizonte,Minas Gerais,4200,2023-05-05 15:45:00,5
+EE135,Smart TV,Sony,BRAVIA X80J,Tech Store,4,20,Isabela Santos,Manaus,Amazonas,5500,2023-05-05 16:30:00,5
+EF136,Smartphone,Motorola,Moto G20,Mobile Center,5,26,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1400,2023-05-05 17:15:00,4
+EG137,Notebook,Acer,Aspire 5,Mega Store,4,14,Larissa Oliveira,São Luís,Maranhão,2500,2023-05-05 18:00:00,3
+EH138,Smart TV,LG,UN7000,Tech Store,5,22,Matheus Santos,Recife,Pernambuco,2800,2023-05-05 18:45:00,5
+EI139,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,10,Rodrigo Lima,São Paulo,São Paulo,1200,2023-05-05 19:30:00,3
+EJ140,Notebook,Lenovo,ThinkBook 14,Info Shop,4,26,Carolina Oliveira,Belo Horizonte,Minas Gerais,4000,2023-05-05 20:15:00,4
+EK141,Smart TV,Samsung,TU7000,Tech Store,5,32,André Santos,Manaus,Amazonas,3000,2023-05-05 21:00:00,5
+EL142,Smartphone,Apple,iPhone XR,Best Deals,4,28,Gustavo Lima,Curitiba,Paraná,5000,2023-05-05 21:45:00,4
+EM143,Notebook,Dell,G3 15,Mega Store,5,34,Larissa Costa,São Luís,Maranhão,4000,2023-05-05 22:30:00,5
+EN144,Smart TV,Sony,XBR-55A9G,Tech Store,4,20,André Oliveira,Manaus,Amazonas,4500,2023-05-05 23:15:00,4
+EO145,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,5,38,Amanda Santos,São Paulo,São Paulo,2500,2023-05-05 23:59:00,5
+EP146,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Campinas,São Paulo,6000,2023-05-06 00:45:00,4
+EQ147,Smart TV,Panasonic,Viera,Tech Store,4,24,Luiza Oliveira,Belo Horizonte,Minas Gerais,3500,2023-05-06 01:30:00,5
+ER148,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,16,Juliana Lima,Recife,Pernambuco,3000,2023-05-06 02:15:00,4
+ES149,Notebook,Samsung,Notebook 9,Info Shop,4,22,Lucas Santos,São Paulo,São Paulo,4500,2023-05-06 02:59:00,5
+ET150,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,28,Carolina Oliveira,Campinas,São Paulo,4000,2023-05-06 03:45:00,4
+EU151,Smartphone,Xiaomi,Poco X3 Pro,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1800,2023-05-06 04:30:00,3
+EV152,Notebook,Dell,Inspiron 13,Mega Store,5,32,Isabela Lima,Porto Alegre,Rio Grande do Sul,4000,2023-05-06 05:15:00,5
+EW153,Smart TV,Sony,XBR-65A8G,Tech Store,4,14,Mateus Santos,Belo Horizonte,Minas Gerais,4500,2023-05-06 05:59:00,4
+EX154,Smartphone,Samsung,Galaxy A71,Eletronics Inc.,5,20,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-06 06:45:00,5
+EY155,Notebook,Acer,Aspire 5,Info Shop,4,18,Juliana Costa,Curitiba,Paraná,3500,2023-05-06 07:30:00,4
+EZ156,Smart TV,LG,UN7000,Tech Store,5,24,Gustavo Santos,São Paulo,São Paulo,2800,2023-05-06 08:15:00,5
+FA157,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,12,Larissa Oliveira,Goiânia,Goiás,1200,2023-05-06 09:00:00,3
+FB158,Notebook,Lenovo,ThinkBook 14,Mega Store,4,26,Marcos Lima,São Luís,Maranhão,3000,2023-05-06 09:45:00,4
+FC159,Smart TV,Samsung,TU8000,Tech Store,5,30,André Santos,Manaus,Amazonas,3500,2023-05-06 10:30:00,5
+FD160,Smartphone,Apple,iPhone 12,Best Deals,4,34,Gustavo Lima,Recife,Pernambuco,6000,2023-05-06 11:15:00,4
+FE161,Notebook,Dell,G3 15,Mega Store,4,18,Larissa Costa,Belo Horizonte,Minas Gerais,4500,2023-05-06 12:00:00,5
+FF162,Smart TV,Sony,XBR-55A9G,Tech Store,5,28,André Oliveira,Campinas,São Paulo,4000,2023-05-06 12:45:00,4
+FG163,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,3,10,Amanda Santos,São Paulo,São Paulo,2500,2023-05-06 13:30:00,5
+FH164,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Curitiba,Paraná,6000,2023-05-06 14:15:00,4
+FI165,Smart TV,Panasonic,Viera,Tech Store,4,20,Luiza Oliveira,Manaus,Amazonas,3500,2023-05-06 15:00:00,5
+FJ166,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,14,Juliana Lima,Belo Horizonte,Minas Gerais,3000,2023-05-06 15:45:00,4
+FK167,Notebook,Samsung,Notebook 9,Info Shop,4,24,Lucas Santos,Campinas,São Paulo,4500,2023-05-06 16:30:00,5
+FL168,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,30,Carolina Oliveira,São Luís,Maranhão,4000,2023-05-06 17:15:00,4
+FM169,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1500,2023-05-06 18:00:00,4
+FN170,Notebook,Lenovo,Ideapad 330S,Mega Store,5,32,Isabela Lima,Recife,Pernambuco,3000,2023-05-06 18:45:00,3
+FO171,Smart TV,Samsung,TU7000,Tech Store,4,14,Mateus Santos,Manaus,Amazonas,2500,2023-05-06 19:30:00,5
+FP172,Smartphone,Apple,iPhone 11,Best Deals,5,38,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-06 20:15:00,5
+FQ173,Notebook,Dell,Inspiron 15,Info Shop,4,22,Juliana Costa,Curitiba,Paraná,3500,2023-05-06 21:00:00,4
+FR174,Smart TV,LG,UN8000,Tech Store,5,28,Gustavo Santos,São Paulo,São Paulo,3200,2023-05-06 21:45:00,5
+FS175,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Larissa Oliveira,Goiania,Goiás,1200,2023-05-06 22:30:00,3
+FT176,Notebook,Lenovo,ThinkPad X1,Mega Store,4,18,Marcos Lima,Porto Alegre,Rio Grande do Sul,5500,2023-05-06 23:15:00,5
+FU177,Smart TV,Samsung,QLED Q60T,Eletronics Inc.,5,24,Isabela Costa,Campinas,São Paulo,4800,2023-05-06 23:59:00,4
+FV178,Smartphone,Apple,iPhone SE,Best Deals,4,30,Lucas Santos,Fortaleza,Ceará,3500,2023-05-07 00:45:00,5
+FW179,Notebook,Dell,Inspiron 14,Info Shop,5,36,Sabrina Costa,Belo Horizonte,Minas Gerais,4200,2023-05-07 01:30:00,5
+FX180,Smart TV,Sony,BRAVIA X80J,Tech Store,4,20,Isabela Santos,Manaus,Amazonas,5500,2023-05-07 02:15:00,5
+FY181,Smartphone,Motorola,Moto G20,Mobile Center,5,26,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1400,2023-05-07 03:00:00,4
+FZ182,Notebook,Acer,Aspire 5,Mega Store,4,14,Larissa Oliveira,São Luís,Maranhão,2500,2023-05-07 03:45:00,3
+GA183,Smart TV,LG,UN7000,Tech Store,5,22,Matheus Santos,Recife,Pernambuco,2800,2023-05-07 04:30:00,5
+GB184,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,10,Rodrigo Lima,São Paulo,São Paulo,1200,2023-05-07 05:15:00,3
+GC185,Notebook,Lenovo,ThinkBook 14,Info Shop,4,26,Carolina Oliveira,Belo Horizonte,Minas Gerais,4000,2023-05-07 06:00:00,4
+GD186,Smart TV,Samsung,TU7000,Tech Store,5,32,André Santos,Manaus,Amazonas,3000,2023-05-07 06:45:00,5
+GE187,Smartphone,Apple,iPhone XR,Best Deals,4,28,Gustavo Lima,Curitiba,Paraná,5000,2023-05-07 07:30:00,4
+GF188,Notebook,Dell,G3 15,Mega Store,5,34,Larissa Costa,São Luís,Maranhão,4000,2023-05-07 08:15:00,5
+GG189,Smart TV,Sony,XBR-55A9G,Tech Store,4,20,André Oliveira,Manaus,Amazonas,4500,2023-05-07 09:00:00,4
+GH190,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,5,38,Amanda Santos,São Paulo,São Paulo,2500,2023-05-07 09:45:00,5
+GI191,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Campinas,São Paulo,6000,2023-05-07 10:30:00,4
+GJ192,Smart TV,Panasonic,Viera,Tech Store,4,24,Luiza Oliveira,Belo Horizonte,Minas Gerais,3500,2023-05-07 11:15:00,5
+GK193,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,16,Juliana Lima,Recife,Pernambuco,3000,2023-05-07 12:00:00,4
+GL194,Notebook,Samsung,Notebook 9,Info Shop,4,22,Lucas Santos,São Paulo,São Paulo,4500,2023-05-07 12:45:00,5
+GM195,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,28,Carolina Oliveira,Campinas,São Paulo,4000,2023-05-07 13:30:00,4
+GN196,Smartphone,Xiaomi,Poco X3 Pro,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1800,2023-05-07 14:15:00,3
+GO197,Notebook,Dell,Inspiron 13,Mega Store,5,32,Isabela Lima,Porto Alegre,Rio Grande do Sul,4000,2023-05-07 15:00:00,5
+GP198,Smart TV,Sony,XBR-65A8G,Tech Store,4,14,Mateus Santos,Belo Horizonte,Minas Gerais,4500,2023-05-07 15:45:00,4
+GQ199,Smartphone,Samsung,Galaxy A71,Eletronics Inc.,5,20,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-07 16:30:00,5
+GR200,Notebook,Acer,Aspire 5,Info Shop,4,18,Juliana Costa,Curitiba,Paraná,3500,2023-05-07 17:15:00,4
+GS201,Smart TV,LG,UN8000,Tech Store,5,24,Gustavo Santos,São Paulo,São Paulo,3200,2023-05-07 18:00:00,5
+GT202,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Larissa Oliveira,Goiânia,Goiás,1200,2023-05-07 18:45:00,3
+GU203,Notebook,Lenovo,ThinkBook 14,Mega Store,4,26,Marcos Lima,São Luís,Maranhão,3000,2023-05-07 19:30:00,4
+GV204,Smart TV,Samsung,TU8000,Tech Store,5,30,André Santos,Manaus,Amazonas,3500,2023-05-07 20:15:00,5
+GW205,Smartphone,Apple,iPhone 12,Best Deals,4,34,Gustavo Lima,Recife,Pernambuco,6000,2023-05-07 21:00:00,4
+GX206,Notebook,Dell,G3 15,Mega Store,4,18,Larissa Costa,Belo Horizonte,Minas Gerais,4500,2023-05-07 21:45:00,5
+GY207,Smart TV,Sony,XBR-55A9G,Tech Store,5,28,André Oliveira,Campinas,São Paulo,4000,2023-05-07 22:30:00,4
+GZ208,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,3,10,Amanda Santos,São Paulo,São Paulo,2500,2023-05-07 23:15:00,5
+HA209,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Curitiba,Paraná,6000,2023-05-07 23:59:00,4
+HB210,Smart TV,Panasonic,Viera,Tech Store,4,20,Luiza Oliveira,Manaus,Amazonas,3500,2023-05-08 00:45:00,5
+HC211,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,14,Juliana Lima,Belo Horizonte,Minas Gerais,3000,2023-05-08 01:30:00,4
+HD212,Notebook,Samsung,Notebook 9,Info Shop,4,24,Lucas Santos,Campinas,São Paulo,4500,2023-05-08 02:15:00,5
+HE213,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,30,Carolina Oliveira,São Luís,Maranhão,4000,2023-05-08 03:00:00,4
+HF214,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1500,2023-05-08 03:45:00,4
+HG215,Notebook,Lenovo,Ideapad 330S,Mega Store,5,32,Isabela Lima,Recife,Pernambuco,3000,2023-05-08 04:30:00,3
+HH216,Smart TV,Samsung,TU7000,Tech Store,4,14,Mateus Santos,Manaus,Amazonas,2500,2023-05-08 05:15:00,5
+HI217,Smartphone,Apple,iPhone 11,Best Deals,5,38,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-08 06:00:00,5
+HJ218,Notebook,Dell,Inspiron 15,Info Shop,4,22,Juliana Costa,Curitiba,Paraná,3500,2023-05-08 06:45:00,4
+HK219,Smart TV,LG,UN8000,Tech Store,5,28,Gustavo Santos,São Paulo,São Paulo,3200,2023-05-08 07:30:00,5
+HL220,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Larissa Oliveira,Goiania,Goiás,1200,2023-05-08 08:15:00,3
+HM221,Notebook,Lenovo,ThinkPad X1,Mega Store,4,18,Marcos Lima,Porto Alegre,Rio Grande do Sul,5500,2023-05-08 09:00:00,5
+HN222,Smart TV,Samsung,QLED Q60T,Eletronics Inc.,5,24,Isabela Costa,Campinas,São Paulo,4800,2023-05-08 09:45:00,4
+HO223,Smartphone,Apple,iPhone SE,Best Deals,4,30,Lucas Santos,Fortaleza,Ceará,3500,2023-05-08 10:30:00,5
+HP224,Notebook,Dell,Inspiron 14,Info Shop,5,36,Sabrina Costa,Belo Horizonte,Minas Gerais,4200,2023-05-08 11:15:00,5
+HQ225,Smart TV,Sony,BRAVIA X80J,Tech Store,4,20,Isabela Santos,Manaus,Amazonas,5500,2023-05-08 12:00:00,5
+HR226,Smartphone,Motorola,Moto G20,Mobile Center,5,26,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1400,2023-05-08 12:45:00,4
+HS227,Notebook,Acer,Aspire 5,Mega Store,4,14,Larissa Oliveira,São Luís,Maranhão,2500,2023-05-08 13:30:00,3
+HT228,Smart TV,LG,UN7000,Tech Store,5,22,Matheus Santos,Recife,Pernambuco,2800,2023-05-08 14:15:00,5
+HU229,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,10,Rodrigo Lima,São Paulo,São Paulo,1200,2023-05-08 15:00:00,3
+HV230,Notebook,Lenovo,ThinkBook 14,Info Shop,4,26,Carolina Oliveira,Belo Horizonte,Minas Gerais,4000,2023-05-08 15:45:00,4
+HW231,Smart TV,Samsung,TU7000,Tech Store,5,32,André Santos,Manaus,Amazonas,3000,2023-05-08 16:30:00,5
+HX232,Smartphone,Apple,iPhone XR,Best Deals,4,28,Gustavo Lima,Curitiba,Paraná,5000,2023-05-08 17:15:00,4
+HY233,Notebook,Dell,G3 15,Mega Store,5,34,Larissa Costa,São Luís,Maranhão,4000,2023-05-08 18:00:00,5
+HZ234,Smart TV,Sony,XBR-55A9G,Tech Store,4,20,André Oliveira,Manaus,Amazonas,4500,2023-05-08 18:45:00,4
+IA235,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,5,38,Amanda Santos,São Paulo,São Paulo,2500,2023-05-08 19:30:00,5
+IB236,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Campinas,São Paulo,6000,2023-05-08 20:15:00,4
+IC237,Smart TV,Panasonic,Viera,Tech Store,4,24,Luiza Oliveira,Belo Horizonte,Minas Gerais,3500,2023-05-08 21:00:00,5
+ID238,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,16,Juliana Lima,Recife,Pernambuco,3000,2023-05-08 21:45:00,4
+IE239,Notebook,Samsung,Notebook 9,Info Shop,4,22,Lucas Santos,São Paulo,São Paulo,4500,2023-05-08 22:30:00,5
+IF240,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,28,Carolina Oliveira,Campinas,São Paulo,4000,2023-05-08 23:15:00,4
+IG241,Smartphone,Xiaomi,Poco X3 Pro,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1800,2023-05-08 23:59:00,4
+IH242,Notebook,Dell,Inspiron 13,Mega Store,5,32,Isabela Lima,Porto Alegre,Rio Grande do Sul,4000,2023-05-09 00:45:00,5
+II243,Smart TV,Sony,XBR-65A8G,Tech Store,4,14,Mateus Santos,Belo Horizonte,Minas Gerais,4500,2023-05-09 01:30:00,4
+IJ244,Smartphone,Samsung,Galaxy A71,Eletronics Inc.,5,20,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-09 02:15:00,5
+IK245,Notebook,Acer,Aspire 5,Info Shop,4,18,Juliana Costa,Curitiba,Paraná,3500,2023-05-09 03:00:00,4
+IL246,Smart TV,LG,UN8000,Tech Store,5,24,Gustavo Santos,São Paulo,São Paulo,3200,2023-05-09 03:45:00,5
+IM247,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Larissa Oliveira,Goiania,Goiás,1200,2023-05-09 04:30:00,3
+IN248,Notebook,Lenovo,ThinkPad X1,Mega Store,4,18,Marcos Lima,Porto Alegre,Rio Grande do Sul,5500,2023-05-09 05:15:00,5
+IO249,Smart TV,Samsung,QLED Q60T,Eletronics Inc.,5,24,Isabela Costa,Campinas,São Paulo,4800,2023-05-09 06:00:00,4
+IP250,Smartphone,Apple,iPhone SE,Best Deals,4,30,Lucas Santos,Fortaleza,Ceará,3500,2023-05-09 06:45:00,5
+IQ251,Notebook,Dell,Inspiron 14,Info Shop,5,36,Sabrina Costa,Belo Horizonte,Minas Gerais,4200,2023-05-09 07:30:00,5
+IR252,Smart TV,Sony,BRAVIA X80J,Tech Store,4,20,Isabela Santos,Manaus,Amazonas,5500,2023-05-09 08:15:00,5
+IS253,Smartphone,Motorola,Moto G20,Mobile Center,5,26,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1400,2023-05-09 09:00:00,4
+IT254,Notebook,Acer,Aspire 5,Mega Store,4,14,Larissa Oliveira,São Luís,Maranhão,2500,2023-05-09 09:45:00,3
+IU255,Smart TV,LG,UN7000,Tech Store,5,22,Matheus Santos,Recife,Pernambuco,2800,2023-05-09 10:30:00,5
+IV256,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,10,Rodrigo Lima,São Paulo,São Paulo,1200,2023-05-09 11:15:00,3
+IW257,Notebook,Lenovo,ThinkBook 14,Info Shop,4,26,Carolina Oliveira,Belo Horizonte,Minas Gerais,4000,2023-05-09 12:00:00,4
+IX258,Smart TV,Samsung,TU7000,Tech Store,5,32,André Santos,Manaus,Amazonas,3000,2023-05-09 12:45:00,5
+IY259,Smartphone,Apple,iPhone XR,Best Deals,4,28,Gustavo Lima,Curitiba,Paraná,5000,2023-05-09 13:30:00,4
+IZ260,Notebook,Dell,G3 15,Mega Store,5,34,Larissa Costa,São Luís,Maranhão,4000,2023-05-09 14:15:00,5
+JA261,Smart TV,Sony,XBR-55A9G,Tech Store,4,20,André Oliveira,Manaus,Amazonas,4500,2023-05-09 15:00:00,4
+JB262,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,5,38,Amanda Santos,São Paulo,São Paulo,2500,2023-05-09 15:45:00,5
+JC263,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Campinas,São Paulo,6000,2023-05-09 16:30:00,4
+JD264,Smart TV,Panasonic,Viera,Tech Store,4,24,Luiza Oliveira,Belo Horizonte,Minas Gerais,3500,2023-05-09 17:15:00,5
+JE265,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,16,Juliana Lima,Recife,Pernambuco,3000,2023-05-09 18:00:00,4
+JF266,Notebook,Samsung,Notebook 9,Info Shop,4,22,Lucas Santos,São Paulo,São Paulo,4500,2023-05-09 18:45:00,5
+JG267,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,28,Carolina Oliveira,Campinas,São Paulo,4000,2023-05-09 19:30:00,4
+JH268,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1500,2023-05-09 20:15:00,4
+JI269,Notebook,Lenovo,Ideapad 330S,Mega Store,5,32,Isabela Lima,Recife,Pernambuco,3000,2023-05-09 21:00:00,3
+JJ270,Smart TV,Samsung,TU7000,Tech Store,4,14,Mateus Santos,Manaus,Amazonas,2500,2023-05-09 21:45:00,5
+JK271,Smartphone,Apple,iPhone 11,Best Deals,5,38,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-09 22:30:00,5
+JL272,Notebook,Dell,Inspiron 15,Info Shop,4,22,Juliana Costa,Curitiba,Paraná,3500,2023-05-09 23:15:00,4
+JM273,Smart TV,LG,UN8000,Tech Store,5,28,Gustavo Santos,São Paulo,São Paulo,3200,2023-05-09 23:59:00,5
+JN274,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Larissa Oliveira,Goiania,Goiás,1200,2023-05-10 00:45:00,3
+JO275,Notebook,Lenovo,ThinkPad X1,Mega Store,4,18,Marcos Lima,Porto Alegre,Rio Grande do Sul,5500,2023-05-10 01:30:00,5
+JP276,Smart TV,Samsung,QLED Q60T,Eletronics Inc.,5,24,Isabela Costa,Campinas,São Paulo,4800,2023-05-10 02:15:00,4
+JQ277,Smartphone,Apple,iPhone SE,Best Deals,4,30,Lucas Santos,Fortaleza,Ceará,3500,2023-05-10 03:00:00,5
+JR278,Notebook,Dell,Inspiron 14,Info Shop,5,36,Sabrina Costa,Belo Horizonte,Minas Gerais,4200,2023-05-10 03:45:00,5
+JS279,Smart TV,Sony,BRAVIA X80J,Tech Store,4,20,Isabela Santos,Manaus,Amazonas,5500,2023-05-10 04:30:00,5
+JT280,Smartphone,Motorola,Moto G20,Mobile Center,5,26,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1400,2023-05-10 05:15:00,4
+JU281,Notebook,Acer,Aspire 5,Mega Store,4,14,Larissa Oliveira,São Luís,Maranhão,2500,2023-05-10 06:00:00,3
+JV282,Smart TV,LG,UN7000,Tech Store,5,22,Matheus Santos,Recife,Pernambuco,2800,2023-05-10 06:45:00,5
+JW283,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,10,Rodrigo Lima,São Paulo,São Paulo,1200,2023-05-10 07:30:00,3
+JX284,Notebook,Lenovo,ThinkBook 14,Info Shop,4,26,Carolina Oliveira,Belo Horizonte,Minas Gerais,4000,2023-05-10 08:15:00,4
+JY285,Smart TV,Samsung,TU7000,Tech Store,5,32,André Santos,Manaus,Amazonas,3000,2023-05-10 09:00:00,5
+JZ286,Smartphone,Apple,iPhone XR,Best Deals,4,28,Gustavo Lima,Curitiba,Paraná,5000,2023-05-10 09:45:00,4
+KA287,Notebook,Dell,G3 15,Mega Store,5,34,Larissa Costa,São Luís,Maranhão,4000,2023-05-10 10:30:00,5
+KB288,Smart TV,Sony,XBR-55A9G,Tech Store,4,20,André Oliveira,Manaus,Amazonas,4500,2023-05-10 11:15:00,4
+KC289,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,5,38,Amanda Santos,São Paulo,São Paulo,2500,2023-05-10 12:00:00,5
+KD290,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Campinas,São Paulo,6000,2023-05-10 12:45:00,4
+KE291,Smart TV,Panasonic,Viera,Tech Store,4,24,Luiza Oliveira,Belo Horizonte,Minas Gerais,3500,2023-05-10 13:30:00,5
+KF292,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,16,Juliana Lima,Recife,Pernambuco,3000,2023-05-10 14:15:00,4
+KG293,Notebook,Samsung,Notebook 9,Info Shop,4,22,Lucas Santos,São Paulo,São Paulo,4500,2023-05-10 15:00:00,5
+KH294,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,28,Carolina Oliveira,Campinas,São Paulo,4000,2023-05-10 15:45:00,4
+KI295,Smartphone,Xiaomi,Poco X3 Pro,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1800,2023-05-10 16:30:00,4
+KJ296,Notebook,Dell,Inspiron 13,Mega Store,5,32,Isabela Lima,Porto Alegre,Rio Grande do Sul,4000,2023-05-10 17:15:00,5
+KK297,Smart TV,Sony,XBR-65A8G,Tech Store,4,14,Mateus Santos,Belo Horizonte,Minas Gerais,4500,2023-05-10 18:00:00,4
+KL298,Smartphone,Samsung,Galaxy A71,Eletronics Inc.,5,20,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-10 18:45:00,5
+KM299,Notebook,Acer,Aspire 5,Info Shop,4,18,Juliana Costa,Curitiba,Paraná,3500,2023-05-10 19:30:00,4
+KN300,Smart TV,LG,UN8000,Tech Store,5,24,Gustavo Santos,São Paulo,São Paulo,3200,2023-05-10 20:15:00,5
+KO301,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Larissa Oliveira,Goiania,Goiás,1200,2023-05-10 21:00:00,3
+KP302,Notebook,Lenovo,ThinkPad X1,Mega Store,4,28,Marcos Lima,Porto Alegre,Rio Grande do Sul,5500,2023-05-10 21:45:00,5
+KQ303,Smart TV,Samsung,QLED Q60T,Eletronics Inc.,5,34,Isabela Costa,Campinas,São Paulo,4800,2023-05-10 22:30:00,4
+KR304,Smartphone,Apple,iPhone SE,Best Deals,4,30,Lucas Santos,Fortaleza,Ceará,3500,2023-05-10 23:15:00,5
+KS305,Notebook,Dell,Inspiron 14,Info Shop,5,36,Sabrina Costa,Belo Horizonte,Minas Gerais,4200,2023-05-10 23:59:00,5
+KT306,Smart TV,Sony,BRAVIA X80J,Tech Store,4,20,Isabela Santos,Manaus,Amazonas,5500,2023-05-11 00:45:00,5
+KU307,Smartphone,Motorola,Moto G20,Mobile Center,5,26,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1400,2023-05-11 01:30:00,4
+KV308,Notebook,Acer,Aspire 5,Mega Store,4,14,Larissa Oliveira,São Luís,Maranhão,2500,2023-05-11 02:15:00,3
+KW309,Smart TV,LG,UN7000,Tech Store,5,22,Matheus Santos,Recife,Pernambuco,2800,2023-05-11 03:00:00,5
+KX310,Smartphone,Xiaomi,Redmi 9A,Mobile Center,3,10,Rodrigo Lima,São Paulo,São Paulo,1200,2023-05-11 03:45:00,3
+KY311,Notebook,Lenovo,ThinkBook 14,Info Shop,4,26,Carolina Oliveira,Belo Horizonte,Minas Gerais,4000,2023-05-11 04:30:00,4
+KZ312,Smart TV,Samsung,TU7000,Tech Store,5,32,André Santos,Manaus,Amazonas,3000,2023-05-11 05:15:00,5
+LA313,Smartphone,Apple,iPhone XR,Best Deals,4,28,Gustavo Lima,Curitiba,Paraná,5000,2023-05-11 06:00:00,4
+LB314,Notebook,Dell,G3 15,Mega Store,5,34,Larissa Costa,São Luís,Maranhão,4000,2023-05-11 06:45:00,5
+LC315,Smart TV,Sony,XBR-55A9G,Tech Store,4,20,André Oliveira,Manaus,Amazonas,4500,2023-05-11 07:30:00,4
+LD316,Smartphone,Samsung,Galaxy A52,Eletronics Inc.,5,38,Amanda Santos,São Paulo,São Paulo,2500,2023-05-11 08:15:00,5
+LE317,Notebook,Asus,ROG Zephyrus,Mega Store,5,36,Mateus Costa,Campinas,São Paulo,6000,2023-05-11 09:00:00,4
+LF318,Smart TV,Panasonic,Viera,Tech Store,4,24,Luiza Oliveira,Belo Horizonte,Minas Gerais,3500,2023-05-11 09:45:00,5
+LG319,Smartphone,Huawei,Mate 30 Pro,Best Deals,3,16,Juliana Lima,Recife,Pernambuco,3000,2023-05-11 10:30:00,4
+LH320,Notebook,Samsung,Notebook 9,Info Shop,4,22,Lucas Santos,São Paulo,São Paulo,4500,2023-05-11 11:15:00,5
+LI321,Smart TV,Philips,55PUS7505/12,Eletronics Inc.,5,28,Carolina Oliveira,Campinas,São Paulo,4000,2023-05-11 12:00:00,4
+LJ322,Smartphone,Xiaomi,Poco X3 Pro,Mobile Center,4,26,Gabriel Costa,Goiânia,Goiás,1800,2023-05-11 12:45:00,4
+LK323,Notebook,Dell,Inspiron 13,Mega Store,5,32,Isabela Lima,Porto Alegre,Rio Grande do Sul,4000,2023-05-11 13:30:00,5
+LL324,Smart TV,Sony,XBR-65A8G,Tech Store,4,14,Mateus Santos,Belo Horizonte,Minas Gerais,4500,2023-05-11 14:15:00,4
+LM325,Smartphone,Samsung,Galaxy A71,Eletronics Inc.,5,20,Lucas Oliveira,Cuiabá,Mato Grosso,2800,2023-05-11 15:00:00,5
+LN326,Notebook,Acer,Aspire 5,Info Shop,4,18,Juliana Costa,Curitiba,Paraná,3500,2023-05-11 15:45:00,4
+LO327,Smart TV,LG,UN8000,Tech Store,5,24,Gustavo Santos,São Paulo,São Paulo,3200,2023-05-11 16:30:00,5
+LP328,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,12,Larissa Oliveira,Goiania,Goiás,1200,2023-05-11 17:15:00,3
+LQ329,Notebook,Lenovo,ThinkPad X1,Mega Store,5,30,Matheus Lima,Rio de Janeiro,Rio de Janeiro,5000,2023-05-11 18:00:00,5
+LQ330,Notebook,Dell,Inspiron 13,Mega Store,4,22,Gabriel Souza,Santos,São Paulo,4100,2023-05-11 18:15:00,3
+LR331,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5500,2023-05-11 18:45:00,4
+LS332,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,6000,2023-05-11 19:30:00,5
+LT333,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-11 20:15:00,4
+LU334,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-11 21:00:00,5
+LV335,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-11 21:45:00,4
+LW336,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-11 22:30:00,4
+LX337,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-11 23:15:00,5
+LY338,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-12 00:00:00,3
+LZ339,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-12 00:45:00,4
+MA340,Smart TV,Samsung,TU8500,Tech Store,5,30,André Santos,Manaus,Amazonas,4000,2023-05-12 01:30:00,5
+MB341,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-12 02:15:00,4
+MC342,Notebook,Dell,G5 15,Mega Store,5,32,Larissa Costa,São Luís,Maranhão,5000,2023-05-12 03:00:00,5
+MD343,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-12 03:45:00,4
+ME344,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-12 04:30:00,5
+MF345,Notebook,Asus,ROG Strix,Mega Store,5,36,Mateus Costa,Campinas,São Paulo,7000,2023-05-12 05:15:00,5
+MG346,Smart TV,Panasonic,Viera,Tech Store,4,22,Luiza Oliveira,Belo Horizonte,Minas Gerais,4000,2023-05-12 06:00:00,4
+MH347,Smartphone,Huawei,P40 Pro,Best Deals,3,10,Juliana Lima,Recife,Pernambuco,3500,2023-05-12 06:45:00,5
+MI348,Notebook,Samsung,Notebook 7,Info Shop,4,16,Lucas Santos,São Paulo,São Paulo,4200,2023-05-12 07:30:00,4
+MJ349,Smart TV,Philips,65PUS8505/12,Eletronics Inc.,5,26,Carolina Oliveira,Campinas,São Paulo,5000,2023-05-12 08:15:00,5
+MK350,Smartphone,Xiaomi,Poco X3 Pro,Mobile Center,4,28,Gabriel Costa,Goiânia,Goiás,2200,2023-05-12 09:00:00,4
+ML351,Notebook,Dell,Inspiron 13,Mega Store,5,34,Isabela Lima,Porto Alegre,Rio Grande do Sul,4500,2023-05-12 09:45:00,4
+MM352,Smart TV,Sony,XBR-65A8G,Tech Store,4,30,Mateus Santos,Belo Horizonte,Minas Gerais,5500,2023-05-12 10:30:00,4
+MN353,Smartphone,Samsung,Galaxy A72,Eletronics Inc.,5,20,Lucas Oliveira,Cuiabá,Mato Grosso,3200,2023-05-12 11:15:00,5
+MO354,Notebook,Acer,Aspire 5,Info Shop,4,24,Juliana Costa,Curitiba,Paraná,3800,2023-05-12 12:00:00,4
+MP355,Smart TV,LG,UN8000,Tech Store,5,30,Gustavo Santos,São Paulo,São Paulo,3500,2023-05-12 12:45:00,5
+MQ356,Smartphone,Xiaomi,Redmi 9,Mobile Center,3,18,Larissa Oliveira,Goiania,Goiás,1400,2023-05-12 13:30:00,3
+MR357,Notebook,Lenovo,ThinkPad X330,Mega Store,5,38,Matheus Lima,Rio de Janeiro,Rio de Janeiro,4000,2023-05-12 14:15:00,4
+MS358,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,6000,2023-05-12 15:00:00,4
+MT359,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,6500,2023-05-12 15:45:00,5
+MU360,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-12 16:30:00,4
+MV361,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,7000,2023-05-12 17:15:00,5
+MW362,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,2000,2023-05-12 18:00:00,4
+MX363,Notebook,Acer,Aspire 7,Mega Store,5,40,Larissa Oliveira,São Luís,Maranhão,3500,2023-05-12 18:45:00,4
+MY364,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2500,2023-05-12 19:30:00,5
+MZ365,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1800,2023-05-12 20:15:00,3
+NA366,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3000,2023-05-12 21:00:00,4
+NB367,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4500,2023-05-12 21:45:00,5
+NC368,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4000,2023-05-12 22:30:00,4
+ND369,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5500,2023-05-12 23:15:00,5
+NE370,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,6000,2023-05-13 00:00:00,4
+NF371,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,6000,2023-05-13 00:45:00,5
+NG372,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7500,2023-05-13 01:30:00,5
+NH373,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3500,2023-05-13 02:15:00,4
+NI374,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1700,2023-05-13 03:00:00,3
+NJ375,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3800,2023-05-13 03:45:00,4
+NK376,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5500,2023-05-13 04:30:00,4
+NL377,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,6000,2023-05-13 05:15:00,5
+NM378,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 06:00:00,4
+NN379,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-13 06:45:00,5
+NO380,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,2200,2023-05-13 07:30:00,4
+NP381,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-13 08:15:00,4
+NQ382,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-13 09:00:00,5
+NR383,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1500,2023-05-13 09:45:00,3
+NS384,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3500,2023-05-13 10:30:00,4
+NT385,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4200,2023-05-13 11:15:00,5
+NU386,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-13 12:00:00,4
+NV387,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-13 12:45:00,5
+NW388,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-13 13:30:00,4
+NX389,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-13 14:15:00,5
+NY390,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-13 15:00:00,5
+NZ391,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-13 15:45:00,4
+OA392,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 16:30:00,3
+OB393,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 17:15:00,4
+OC394,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-13 18:00:00,4
+OD395,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-13 18:45:00,5
+OE396,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 19:30:00,4
+OF397,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-13 20:15:00,5
+OG398,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-13 21:00:00,4
+OH399,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-13 21:45:00,4
+OI400,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-13 22:30:00,5
+OJ401,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 23:15:00,3
+OK402,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 00:00:00,4
+OL403,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-13 00:45:00,5
+OM404,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-13 01:30:00,4
+ON405,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-13 02:15:00,5
+OO406,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-13 03:00:00,4
+OP407,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-13 03:45:00,5
+OQ408,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-13 04:30:00,5
+OR409,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3500,2023-05-13 05:15:00,4
+OS410,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1700,2023-05-13 06:00:00,3
+OT411,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3800,2023-05-13 06:45:00,4
+OU412,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5500,2023-05-13 07:30:00,4
+OV413,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,6500,2023-05-13 08:15:00,5
+OW414,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 09:00:00,4
+OX415,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,7000,2023-05-13 09:45:00,5
+OY416,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,2000,2023-05-13 10:30:00,4
+OZ417,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3500,2023-05-13 11:15:00,4
+PA418,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2500,2023-05-13 12:00:00,5
+PB419,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1800,2023-05-13 12:45:00,3
+PC420,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3000,2023-05-13 13:30:00,4
+PD421,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4500,2023-05-13 14:15:00,5
+PE422,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4000,2023-05-13 15:00:00,4
+PF423,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5500,2023-05-13 15:45:00,5
+PG424,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,6000,2023-05-13 16:30:00,4
+PH425,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,6000,2023-05-13 17:15:00,5
+PI426,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7500,2023-05-13 18:00:00,5
+PJ427,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3500,2023-05-13 18:45:00,4
+PK428,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1700,2023-05-13 19:30:00,3
+PL429,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3800,2023-05-13 20:15:00,4
+PM430,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5500,2023-05-13 21:00:00,4
+PN431,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,6000,2023-05-13 21:45:00,5
+PO432,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 22:30:00,4
+PP433,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-13 23:15:00,5
+PQ434,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,2200,2023-05-13 00:00:00,4
+PR435,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-13 00:45:00,4
+PS436,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-13 01:30:00,5
+PT437,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1500,2023-05-13 02:15:00,3
+PU438,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3500,2023-05-13 03:00:00,4
+PV439,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4200,2023-05-13 03:45:00,5
+PW440,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-13 04:30:00,4
+PX441,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-13 05:15:00,5
+PY442,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-13 06:00:00,4
+PZ443,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-13 06:45:00,5
+QA444,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-13 07:30:00,5
+QB445,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-13 08:15:00,4
+QC446,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 09:00:00,3
+QD447,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 09:45:00,4
+QE448,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-13 10:30:00,4
+QF449,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-13 11:15:00,5
+QG450,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 12:00:00,4
+QH451,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-13 12:45:00,5
+QI452,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-13 13:30:00,4
+QJ453,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-13 14:15:00,4
+QK454,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-13 15:00:00,5
+QL455,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 15:45:00,3
+QM456,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 16:30:00,4
+QN457,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-13 17:15:00,5
+QO458,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-13 18:00:00,4
+QP459,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-13 18:45:00,5
+QQ460,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-13 19:30:00,4
+QR461,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-13 20:15:00,5
+QS462,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-13 21:00:00,5
+QT463,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-13 21:45:00,4
+QU464,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 22:30:00,3
+QV465,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 23:15:00,4
+QW466,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-13 00:00:00,4
+QX467,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-13 00:45:00,5
+QY468,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 01:30:00,4
+QZ469,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-13 02:15:00,5
+RA470,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-13 03:00:00,4
+RB471,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-13 03:45:00,4
+RC472,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-13 04:30:00,5
+RD473,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 05:15:00,3
+RE474,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 06:00:00,4
+RF475,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-13 06:45:00,5
+RG476,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-13 07:30:00,4
+RH477,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-13 08:15:00,5
+RI478,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-13 09:00:00,4
+RJ479,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-13 09:45:00,5
+RK480,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-13 10:30:00,5
+RL481,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-13 11:15:00,4
+RM482,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 12:00:00,3
+RN483,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 12:45:00,4
+RO484,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-13 13:30:00,4
+RP485,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-13 14:15:00,5
+RQ486,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 15:00:00,4
+RR487,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-13 15:45:00,5
+RS488,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-13 16:30:00,4
+RT489,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-13 17:15:00,4
+RU490,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-13 18:00:00,5
+RV491,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 18:45:00,3
+RW492,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 19:30:00,4
+RX493,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-13 20:15:00,5
+RY494,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-13 21:00:00,4
+RZ495,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-13 21:45:00,5
+SA496,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-13 22:30:00,4
+SB497,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-13 23:15:00,5
+SC498,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-13 00:00:00,5
+SD499,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-13 00:45:00,4
+SE500,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 01:30:00,3
+SF501,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 02:15:00,4
+SG502,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-13 03:00:00,4
+SH503,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-13 03:45:00,5
+SI504,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 04:30:00,4
+SJ505,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-13 05:15:00,5
+SK506,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-13 06:00:00,4
+SL507,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-13 06:45:00,4
+SM508,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-13 07:30:00,5
+SN509,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 08:15:00,3
+SO510,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 09:00:00,4
+SP511,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-13 10:30:00,5
+SQ512,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-13 11:15:00,4
+SR513,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-13 12:00:00,5
+SS514,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-13 12:45:00,4
+ST515,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-13 13:30:00,5
+SU516,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-13 14:15:00,5
+SV517,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-13 15:00:00,4
+SW518,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 15:45:00,3
+SX519,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 16:30:00,4
+SY520,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-13 17:15:00,4
+SZ521,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-13 18:00:00,5
+TA522,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-13 18:45:00,4
+TB523,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-13 19:30:00,5
+TC524,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-13 20:15:00,4
+TD525,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-13 21:00:00,4
+TE526,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-13 21:45:00,5
+TF527,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-13 22:30:00,3
+TG528,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-13 23:15:00,4
+TH529,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-14 00:00:00,5
+TI530,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-14 00:45:00,4
+TJ531,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-14 01:30:00,5
+TK532,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-14 02:15:00,4
+TL533,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-14 03:00:00,5
+TM534,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-14 03:45:00,5
+TN535,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-14 04:30:00,4
+TO536,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-14 05:15:00,3
+TP537,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-14 06:00:00,4
+TQ538,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-14 06:45:00,4
+TR539,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-14 07:30:00,5
+TS540,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-14 08:15:00,4
+TT541,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-14 09:00:00,5
+TU542,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-14 09:45:00,4
+TV543,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-14 10:30:00,4
+TW544,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-14 11:15:00,5
+TX545,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-14 12:00:00,3
+TY546,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-14 12:45:00,4
+TZ547,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-14 13:30:00,5
+UA548,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-14 14:15:00,4
+UB549,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-14 15:00:00,5
+UC550,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-14 15:45:00,4
+UD551,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-14 16:30:00,5
+UE552,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-14 17:15:00,5
+UF553,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-14 18:00:00,4
+UG554,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-14 18:45:00,3
+UH555,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-14 19:30:00,4
+UI556,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-14 20:15:00,4
+UJ557,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-14 21:00:00,5
+UK558,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-14 21:45:00,4
+UL559,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-14 22:30:00,5
+UM560,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-14 23:15:00,4
+UN561,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-15 00:00:00,4
+UO562,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-15 00:45:00,5
+UP563,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 01:30:00,3
+UQ564,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 02:15:00,4
+UR565,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-15 03:00:00,5
+US566,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-15 03:45:00,4
+UT567,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-15 04:30:00,5
+UU568,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-15 05:15:00,4
+UV569,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-15 06:00:00,5
+UW570,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-15 06:45:00,5
+UX571,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-15 07:30:00,4
+UY572,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 08:15:00,3
+UZ573,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 09:00:00,4
+VA574,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-15 09:45:00,4
+VB575,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-15 10:30:00,5
+VC576,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-15 11:15:00,4
+VD577,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-15 12:00:00,5
+VE578,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-15 12:45:00,4
+VF579,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-15 13:30:00,4
+VG580,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-15 14:15:00,5
+VH581,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 15:00:00,3
+VI582,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 15:45:00,4
+VJ583,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-15 16:30:00,5
+VK584,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-15 17:15:00,4
+VL585,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-15 18:00:00,5
+VM586,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-15 18:45:00,4
+VN587,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-15 19:30:00,5
+VO588,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-15 20:15:00,5
+VP589,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-15 21:00:00,4
+VQ590,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 21:45:00,3
+VR591,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 22:30:00,4
+VS592,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-15 23:15:00,4
+VT593,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-15 00:00:00,5
+VU594,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-15 00:45:00,4
+VV595,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-15 01:30:00,5
+VW596,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-15 02:15:00,4
+VX597,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-15 03:00:00,4
+VY598,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-15 03:45:00,5
+VZ599,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 04:30:00,3
+WA600,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 05:15:00,4
+WB601,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-15 06:00:00,5
+WC602,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-15 06:45:00,4
+WD603,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-15 07:30:00,5
+WE604,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-15 08:15:00,4
+WF605,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-15 09:00:00,5
+WG606,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-15 09:45:00,5
+WH607,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-15 10:30:00,4
+WI608,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 11:15:00,3
+WJ609,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 12:00:00,4
+WK610,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-15 12:45:00,4
+WL611,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-15 13:30:00,5
+WM612,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-15 14:15:00,4
+WN613,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-15 15:00:00,5
+WO614,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-15 15:45:00,4
+WP615,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-15 16:30:00,4
+WQ616,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-15 17:15:00,5
+WR617,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 18:00:00,3
+WS618,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 18:45:00,4
+WT619,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-15 19:30:00,5
+WU620,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-15 20:15:00,4
+WV621,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-15 21:00:00,5
+WW622,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-15 21:45:00,4
+WX623,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-15 22:30:00,5
+WY624,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-15 23:15:00,5
+WZ625,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-15 00:00:00,4
+X001,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 00:45:00,3
+X002,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 01:30:00,4
+X003,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-15 02:15:00,4
+X004,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-15 03:00:00,5
+X005,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-15 03:45:00,4
+X006,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-15 04:30:00,5
+X007,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-15 05:15:00,4
+X008,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-15 06:00:00,4
+X009,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-15 06:45:00,5
+X010,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 07:30:00,3
+X011,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 08:15:00,4
+X012,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-15 09:00:00,5
+X013,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-15 09:45:00,4
+X014,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-15 10:30:00,5
+X015,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-15 11:15:00,4
+X016,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-15 12:00:00,5
+X017,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-15 12:45:00,5
+X018,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-15 13:30:00,4
+X019,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 14:15:00,3
+X020,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 15:00:00,4
+X021,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-15 15:45:00,4
+X022,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-15 16:30:00,5
+X023,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-15 17:15:00,4
+X024,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-15 18:00:00,5
+X025,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-15 18:45:00,4
+X026,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-15 19:30:00,4
+X027,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-15 20:15:00,5
+X028,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-15 21:00:00,3
+X029,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-15 21:45:00,4
+X030,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-15 22:30:00,5
+X031,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-15 23:15:00,4
+X032,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-15 00:00:00,5
+X033,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-16 00:45:00,4
+X034,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-16 01:30:00,5
+X035,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-16 02:15:00,5
+X036,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-16 03:00:00,4
+X037,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-16 03:45:00,3
+X038,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-16 04:30:00,4
+X039,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-16 05:15:00,4
+X040,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-16 06:00:00,5
+X041,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-16 06:45:00,4
+X042,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-16 07:30:00,5
+X043,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-16 08:15:00,4
+X044,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-16 09:00:00,4
+X045,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-16 09:45:00,5
+X046,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-16 10:30:00,3
+X047,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-16 11:15:00,4
+X048,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-16 12:00:00,5
+X049,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-16 12:45:00,4
+X050,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-16 13:30:00,5
+X051,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-16 14:15:00,4
+X052,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-16 15:00:00,5
+X053,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-16 15:45:00,5
+X054,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-16 16:30:00,4
+X055,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-16 17:15:00,3
+X056,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-16 18:00:00,4
+X057,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-16 18:45:00,4
+X058,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-16 19:30:00,5
+X059,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-16 20:15:00,4
+X060,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-16 21:00:00,5
+X061,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-16 21:45:00,4
+X062,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-16 22:30:00,4
+X063,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-16 23:15:00,5
+X064,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-17 00:00:00,3
+X065,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-17 00:45:00,4
+X066,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-17 01:30:00,5
+X067,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-17 02:15:00,4
+X068,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-17 03:00:00,5
+X069,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-17 03:45:00,4
+X070,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-17 04:30:00,5
+X071,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-17 05:15:00,5
+X072,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-17 06:00:00,4
+X073,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-17 06:45:00,3
+X074,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-17 07:30:00,4
+X075,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-17 08:15:00,4
+X076,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-17 09:00:00,5
+X077,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-17 09:45:00,4
+X078,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-17 10:30:00,5
+X079,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-17 11:15:00,4
+X080,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-17 12:00:00,4
+X081,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-17 12:45:00,5
+X082,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-17 13:30:00,3
+X083,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-17 14:15:00,4
+X084,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-17 15:00:00,5
+X085,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-17 15:45:00,4
+X086,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-17 16:30:00,5
+X087,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-17 17:15:00,4
+X088,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-17 18:00:00,5
+X089,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-17 18:45:00,5
+X090,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-17 19:30:00,4
+X091,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-17 20:15:00,3
+X092,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-17 21:00:00,4
+X093,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-17 21:45:00,4
+X094,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-17 22:30:00,5
+X095,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-17 23:15:00,4
+X096,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-18 00:00:00,5
+X097,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-18 00:45:00,4
+X098,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-18 01:30:00,4
+X099,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-18 02:15:00,5
+X100,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-18 03:00:00,3
+X101,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-18 03:45:00,4
+X102,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-18 04:30:00,5
+X103,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-18 05:15:00,4
+X104,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-18 06:00:00,5
+X105,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-18 06:45:00,4
+X106,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-18 07:30:00,5
+X107,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-18 08:15:00,5
+X108,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-18 09:00:00,4
+X109,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-18 09:45:00,3
+X110,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-18 10:30:00,4
+X111,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-18 11:15:00,4
+X112,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-18 12:00:00,5
+X113,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-18 12:45:00,4
+X114,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-18 13:30:00,5
+X115,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-18 14:15:00,4
+X116,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-18 15:00:00,4
+X117,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-18 15:45:00,5
+X118,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-18 16:30:00,3
+X119,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-18 17:15:00,4
+X120,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-18 18:00:00,5
+X121,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-18 18:45:00,4
+X122,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-18 19:30:00,5
+X123,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-18 20:15:00,4
+X124,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-18 21:00:00,5
+X125,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-18 21:45:00,5
+X126,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-18 22:30:00,4
+X127,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-18 23:15:00,3
+X128,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-19 00:00:00,4
+X129,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-19 00:45:00,4
+X130,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-19 01:30:00,5
+X131,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-19 02:15:00,4
+X132,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-19 03:00:00,5
+X133,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-19 03:45:00,4
+X134,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-19 04:30:00,4
+X135,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-19 05:15:00,5
+X136,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-19 06:00:00,3
+X137,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-19 06:45:00,4
+X138,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-19 07:30:00,5
+X139,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-19 08:15:00,4
+X140,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-19 09:00:00,5
+X141,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-19 09:45:00,4
+X142,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-19 10:30:00,5
+X143,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-19 11:15:00,5
+X144,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-19 12:00:00,4
+X145,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-19 12:45:00,3
+X146,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-19 13:30:00,4
+X147,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-19 14:15:00,4
+X148,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-19 15:00:00,5
+X149,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-19 15:45:00,4
+X150,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-19 16:30:00,5
+X151,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-19 17:15:00,4
+X152,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-19 18:00:00,4
+X153,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-19 18:45:00,5
+X154,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-19 19:30:00,3
+X155,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-19 20:15:00,4
+X156,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-19 21:00:00,5
+X157,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-19 21:45:00,4
+X158,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-19 22:30:00,5
+X159,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-19 23:15:00,4
+X160,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-19 23:59:59,5
+X161,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-20 00:45:00,5
+X162,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-20 01:30:00,4
+X163,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-20 02:15:00,3
+X164,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-20 03:00:00,4
+X165,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-20 03:45:00,4
+X166,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-20 04:30:00,5
+X167,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-20 05:15:00,4
+X168,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-20 06:00:00,5
+X169,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-20 06:45:00,4
+X170,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-20 07:30:00,4
+X171,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-20 08:15:00,5
+X172,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-20 09:00:00,3
+X173,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-20 09:45:00,4
+X174,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-20 10:30:00,5
+X175,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-20 11:15:00,4
+X176,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-20 12:00:00,5
+X177,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-20 12:45:00,4
+X178,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-20 13:30:00,5
+X179,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-20 14:15:00,5
+X180,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-20 15:00:00,4
+X181,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-20 15:45:00,3
+X182,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-20 16:30:00,4
+X183,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-20 17:15:00,4
+X184,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-20 18:00:00,5
+X185,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-20 18:45:00,4
+X186,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-20 19:30:00,5
+X187,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-20 20:15:00,4
+X188,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-20 21:00:00,4
+X189,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-20 21:45:00,5
+X190,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-20 22:30:00,3
+X191,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-20 23:15:00,4
+X192,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-20 23:59:59,5
+X193,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-21 00:45:00,4
+X194,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-21 01:30:00,5
+X195,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-21 02:15:00,4
+X196,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-21 03:00:00,5
+X197,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-21 03:45:00,5
+X198,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-21 04:30:00,4
+X199,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-21 05:15:00,3
+X200,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-21 06:00:00,4
+X201,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-21 06:45:00,4
+X202,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-21 07:30:00,5
+X203,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-21 08:15:00,4
+X204,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-21 09:00:00,5
+X205,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-21 09:45:00,4
+X206,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-21 10:30:00,4
+X207,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-21 11:15:00,5
+X208,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-21 12:00:00,3
+X209,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-21 12:45:00,4
+X210,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-21 13:30:00,5
+X211,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-21 14:15:00,4
+X212,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-21 15:00:00,5
+X213,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-21 15:45:00,4
+X214,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-21 16:30:00,5
+X215,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-21 17:15:00,5
+X216,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-21 18:00:00,4
+X217,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-21 18:45:00,3
+X218,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-21 19:30:00,4
+X219,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-21 20:15:00,4
+X220,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-21 21:00:00,5
+X221,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-21 21:45:00,4
+X222,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-21 22:30:00,5
+X223,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-21 23:15:00,4
+X224,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-21 23:59:59,4
+X225,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-22 00:45:00,5
+X226,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-22 01:30:00,3
+X227,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-22 02:15:00,4
+X228,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-22 03:00:00,5
+X229,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-22 03:45:00,4
+X230,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-22 04:30:00,5
+X231,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-22 05:15:00,4
+X232,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-22 06:00:00,5
+X233,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-22 06:45:00,5
+X234,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-22 07:30:00,4
+X235,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-22 08:15:00,3
+X236,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-22 09:00:00,4
+X237,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-22 09:45:00,4
+X238,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-22 10:30:00,5
+X239,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-22 11:15:00,4
+X240,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-22 12:00:00,5
+X241,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-22 12:45:00,4
+X242,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-22 13:30:00,4
+X243,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-22 14:15:00,5
+X244,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-22 15:00:00,3
+X245,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-22 15:45:00,4
+X246,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-22 16:30:00,5
+X247,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-22 17:15:00,4
+X248,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-22 18:00:00,5
+X249,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-22 18:45:00,4
+X250,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-22 19:30:00,5
+X251,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-22 20:15:00,5
+X252,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-22 21:00:00,4
+X253,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-22 21:45:00,3
+X254,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-22 22:30:00,4
+X255,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-22 23:15:00,4
+X256,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-22 23:59:59,5
+X257,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-23 00:45:00,4
+X258,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-23 01:30:00,5
+X259,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-23 02:15:00,4
+X260,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-23 03:00:00,4
+X261,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-23 03:45:00,5
+X262,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-23 04:30:00,3
+X263,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-23 05:15:00,4
+X264,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-23 06:00:00,5
+X265,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-23 06:45:00,4
+X266,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-23 07:30:00,5
+X267,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-23 08:15:00,4
+X268,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-23 09:00:00,5
+X269,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-23 09:45:00,5
+X270,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-23 10:30:00,4
+X271,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-23 11:15:00,3
+X272,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-23 12:00:00,4
+X273,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-23 12:45:00,4
+X274,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-23 13:30:00,5
+X275,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-23 14:15:00,4
+X276,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-23 15:00:00,5
+X277,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-23 15:45:00,4
+X278,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-23 16:30:00,4
+X279,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-23 17:15:00,5
+X280,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-23 18:00:00,3
+X281,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-23 18:45:00,4
+X282,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-23 19:30:00,5
+X283,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-23 20:15:00,4
+X284,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-23 21:00:00,5
+X285,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-23 21:45:00,4
+X286,Smartphone,Samsung,Galaxy S21,Eletronics Inc.,5,24,Amanda Santos,São Paulo,São Paulo,5500,2023-05-23 22:30:00,5
+X287,Notebook,Asus,ROG Strix,Mega Store,5,32,Mateus Costa,Campinas,São Paulo,7000,2023-05-23 23:15:00,5
+X288,Smart TV,LG,UN8100,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,3200,2023-05-23 23:59:59,4
+X289,Smartphone,Xiaomi,Redmi Note 9,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-24 00:45:00,3
+X290,Notebook,Lenovo,ThinkPad L480,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-24 01:30:00,4
+X291,Smart TV,Samsung,QLED Q80T,Eletronics Inc.,4,26,Isabela Santos,Campinas,São Paulo,5000,2023-05-24 02:15:00,4
+X292,Smartphone,Apple,iPhone 12,Best Deals,5,32,Lucas Costa,Recife,Pernambuco,5500,2023-05-24 03:00:00,5
+X293,Notebook,Dell,Inspiron 15,Info Shop,4,28,Sabrina Costa,Belo Horizonte,Minas Gerais,4500,2023-05-24 03:45:00,4
+X294,Smart TV,Sony,BRAVIA X90J,Tech Store,5,34,Isabela Oliveira,Manaus,Amazonas,6500,2023-05-24 04:30:00,5
+X295,Smartphone,Motorola,Moto G30,Mobile Center,4,22,Gabriel Lima,Porto Alegre,Rio Grande do Sul,1800,2023-05-24 05:15:00,4
+X296,Notebook,Acer,Aspire 7,Mega Store,5,38,Larissa Oliveira,São Luís,Maranhão,3200,2023-05-24 06:00:00,4
+X297,Smart TV,LG,UN7300,Tech Store,4,20,Matheus Santos,Recife,Pernambuco,2800,2023-05-24 06:45:00,5
+X298,Smartphone,Xiaomi,Redmi Note 10,Mobile Center,3,16,Rodrigo Lima,São Paulo,São Paulo,1600,2023-05-24 07:30:00,3
+X299,Notebook,Lenovo,IdeaPad 3,Info Shop,4,24,Carolina Oliveira,Belo Horizonte,Minas Gerais,3200,2023-05-24 08:15:00,4
+X300,Smart TV,Samsung,TU8500,Tech Store,5,32,André Santos,Manaus,Amazonas,4000,2023-05-24 09:00:00,5
+X301,Smartphone,Apple,iPhone 11,Best Deals,4,26,Gustavo Lima,Curitiba,Paraná,4500,2023-05-24 09:45:00,4
+X302,Notebook,Dell,G5 15,Mega Store,5,36,Larissa Costa,São Luís,Maranhão,5000,2023-05-24 10:30:00,5
+X303,Smart TV,Sony,XBR-55A9G,Tech Store,4,18,André Oliveira,Manaus,Amazonas,5500,2023-05-24 11:15:00,4
+X304,Smartphone, Samsung, Galaxy A52, Eletrônicos S.A., 4, 24, Amanda Lima, Curitiba, Paraná, 2200, 2023-05-24 12:00:00, 4
+X305,Notebook, HP, Pavilion 15, Mega Store, 5, 32, Lucas Oliveira, São Luís, Maranhão, 3500, 2023-05-24 12:45:00, 5
+X306,Smart TV, LG, CX OLED, Tech Store, 4, 20, Pedro Santos, Recife, Pernambuco, 5000, 2023-05-24 13:30:00, 4
+X307,Smartphone, Motorola, Moto G60, Mobile Center, 3, 16, Marina Costa, São Paulo, São Paulo, 1800, 2023-05-24 14:15:00, 3
+X308,Notebook, Dell, XPS 13, Info Shop, 4, 24, Carolina Oliveira, Belo Horizonte, Minas Gerais, 7000, 2023-05-24 15:00:00, 5
+X309,Smart TV, Sony, XBR-65X900F, Tech Store, 5, 34, Gustavo Silva, Manaus, Amazonas, 4500, 2023-05-24 15:45:00, 4
+X310,Smartphone, Xiaomi, Redmi Note 8, Eletrônicos S.A., 4, 22, Gabriela Lima, Porto Alegre, Rio Grande do Sul, 1500, 2023-05-24 16:30:00, 4
+X311,Notebook, Lenovo, ThinkPad T14, Info Shop, 5, 38, Rafael Oliveira, Campinas, São Paulo, 6000, 2023-05-24 17:15:00, 5
+X312,Smart TV, Samsung, QLED Q60A, Eletrônicos S.A., 4, 26, Isabela Santos, Campinas, São Paulo, 3500, 2023-05-24 18:00:00, 4
+X313,Smartphone, Apple, iPhone SE, Best Deals, 5, 32, Lucas Costa, Recife, Pernambuco, 4000, 2023-05-24 18:45:00, 5
+X314,Notebook, Dell, Inspiron 14, Mega Store, 4, 28, Sabrina Costa, Belo Horizonte, Minas Gerais, 3200, 2023-05-24 19:30:00, 4
+X315,Smart TV, Sony, BRAVIA X85J, Tech Store, 5, 34, Isabela Oliveira, Manaus, Amazonas, 5500, 2023-05-24 20:15:00, 5
+X316,Smartphone, Motorola, Moto E7 Power, Mobile Center, 4, 22, Gabriel Lima, Porto Alegre, Rio Grande do Sul, 1000, 2023-05-24 21:00:00, 3
+X317,Notebook, Acer, Aspire 5, Mega Store, 5, 38, Larissa Oliveira, São Luís, Maranhão, 3200, 2023-05-24 21:45:00, 4
+X318,Smart TV, LG, UN8000, Tech Store, 4, 20, Matheus Santos, Recife, Pernambuco, 2800, 2023-05-24 22:30:00, 5
+X319,Smartphone, Xiaomi, Redmi Note 7, Mobile Center, 3, 16, Rodrigo Lima, São Paulo, São Paulo, 1200, 2023-05-24 23:15:00, 3
+X320,Notebook, Lenovo, IdeaPad Flex 5, Info Shop, 4, 24, Carolina Oliveira, Belo Horizonte, Minas Gerais, 3200, 2023-05-24 23:59:59, 4
+X321,Smart TV, Samsung, TU7000, Tech Store, 5, 32, André Santos, Manaus, Amazonas, 3000, 2023-05-25 00:45:00, 5
+X322,Smartphone, Apple, iPhone XR, Best Deals, 4, 26, Gustavo Lima, Curitiba, Paraná, 4500, 2023-05-25 01:30:00, 4
+X323,Notebook, Dell, G3 15, Mega Store, 5, 36, Larissa Costa, São Luís, Maranhão, 5000, 2023-05-25 02:15:00, 5
+X324,Smart TV, Sony, XBR-55A8G, Tech Store, 4, 18, André Oliveira, Manaus, Amazonas, 5500, 2023-05-25 03:00:00, 4
+X325,Smartphone, Samsung, Galaxy A32, Eletrônicos S.A., 5, 24, Amanda Lima, Curitiba, Paraná, 1800, 2023-05-25 03:45:00, 4
+X326,Notebook, HP, Pavilion 14, Mega Store, 5, 32, Lucas Oliveira, São Luís, Maranhão, 3500, 2023-05-25 04:30:00, 5
+X327,Smart TV, LG, CX OLED, Tech Store, 4, 20, Pedro Santos, Recife, Pernambuco, 5000, 2023-05-25 05:15:00, 4
+X328,Smartphone, Motorola, Moto G60, Mobile Center, 3, 16, Marina Costa, São Paulo, São Paulo, 1800, 2023-05-25 06:00:00, 3
+X329,Notebook, Dell, XPS 13, Info Shop, 4, 24, Carolina Oliveira, Belo Horizonte, Minas Gerais, 7000, 2023-05-25 06:45:00, 5
+X330,Smart TV, Sony, XBR-65X900F, Tech Store, 5, 34, Gustavo Silva, Manaus, Amazonas, 4500, 2023-05-25 07:30:00, 4
+X331,Smartphone, Xiaomi, Redmi Note 8, Eletrônicos S.A., 4, 22, Gabriela Lima, Porto Alegre, Rio Grande do Sul, 1500, 2023-05-25 08:15:00, 4
+X332,Notebook, Lenovo, ThinkPad T14, Info Shop, 5, 38, Rafael Oliveira, Campinas, São Paulo, 6000, 2023-05-25 09:00:00, 5
+X333,Smart TV, Samsung, QLED Q60A, Eletrônicos S.A., 4, 26, Isabela Santos, Campinas, São Paulo, 3500, 2023-05-25 09:45:00, 4
+X334,Smartphone, Apple, iPhone SE, Best Deals, 5, 32, Lucas Costa, Recife, Pernambuco, 4000, 2023-05-25 10:30:00, 5
+X335,Notebook, Dell, Inspiron 14, Mega Store, 4, 28, Sabrina Costa, Belo Horizonte, Minas Gerais, 3200, 2023-05-25 11:15:00, 4
+X336,Smart TV, Sony, BRAVIA X85J, Tech Store, 5, 34, Isabela Oliveira, Manaus, Amazonas, 5500, 2023-05-25 12:00:00, 5
+X337,Smartphone, Motorola, Moto E7 Power, Mobile Center, 4, 22, Gabriel Lima, Porto Alegre, Rio Grande do Sul, 1000, 2023-05-25 12:45:00, 3
+X338,Notebook, Acer, Aspire 5, Mega Store, 5, 38, Larissa Oliveira, São Luís, Maranhão, 3200, 2023-05-25 13:30:00, 4
+X339,Smart TV, LG, UN8000, Tech Store, 4, 20, Matheus Santos, Recife, Pernambuco, 2800, 2023-05-25 14:15:00, 5
+X340,Smartphone, Xiaomi, Redmi Note 7, Mobile Center, 3, 16, Rodrigo Lima, São Paulo, São Paulo, 1200, 2023-05-25 15:00:00, 3
+X341,Notebook, Lenovo, IdeaPad Flex 5, Info Shop, 4, 24, Carolina Oliveira, Belo Horizonte, Minas Gerais, 3200, 2023-05-25 15:45:00, 4
+X342,Smart TV, Samsung, TU7000, Tech Store, 5, 32, André Santos, Manaus, Amazonas, 3000, 2023-05-25 16:30:00, 5
+X343,Smartphone, Apple, iPhone XR, Best Deals, 4, 26, Gustavo Lima, Curitiba, Paraná, 4500, 2023-05-25 17:15:00, 4
+X344,Notebook, Dell, G3 15, Mega Store, 5, 36, Larissa Costa, São Luís, Maranhão, 5000, 2023-05-25 18:00:00, 5
+X345,Smart TV, Sony, XBR-55A8G, Tech Store, 4, 18, André Oliveira, Manaus, Amazonas, 5500, 2023-05-25 18:45:00, 4
+X346,Smartphone, Samsung, Galaxy A32, Eletrônicos S.A., 5, 24, Amanda Lima, Curitiba, Paraná, 1800, 2023-05-25 19:30:00, 4
+X347,Notebook, HP, Pavilion 14, Mega Store, 5, 32, Lucas Oliveira, São Luís, Maranhão, 3500, 2023-05-25 20:15:00, 5
+X348,Smart TV, LG, CX OLED, Tech Store, 4, 20, Pedro Santos, Recife, Pernambuco, 5000, 2023-05-25 21:00:00, 4
+X349,Smartphone, Motorola, Moto G60, Mobile Center, 3, 16, Marina Costa, São Paulo, São Paulo, 1800, 2023-05-25 21:45:00, 3
+X350,Notebook, Dell, XPS 13, Info Shop, 4, 24, Carolina Oliveira, Belo Horizonte, Minas Gerais, 7000, 2023-05-25 22:30:00, 5
+X351,Smart TV, Sony, XBR-65X900F, Tech Store, 5, 34, Gustavo Silva, Manaus, Amazonas, 4500, 2023-05-25 23:15:00, 4
+X352,Smartphone, Xiaomi, Redmi Note 8, Eletrônicos S.A., 4, 22, Gabriela Lima, Porto Alegre, Rio Grande do Sul, 1500, 2023-05-25 23:59:59, 4
+X353,Notebook, Lenovo, ThinkPad T14, Info Shop, 5, 38, Rafael Oliveira, Campinas, São Paulo, 6000, 2023-05-26 00:45:00, 5
+X354,Smart TV, Samsung, QLED Q60A, Eletrônicos S.A., 4, 26, Isabela Santos, Campinas, São Paulo, 3500, 2023-05-26 01:30:00, 4
+X355,Smartphone, Apple, iPhone SE, Best Deals, 5, 32, Lucas Costa, Recife, Pernambuco, 4000, 2023-05-26 02:15:00, 5
+X356,Notebook, Dell, Inspiron 14, Mega Store, 4, 28, Sabrina Costa, Belo Horizonte, Minas Gerais, 3200, 2023-05-26 03:00:00, 4
+X357,Smart TV, Sony, BRAVIA X85J, Tech Store, 5, 34, Isabela Oliveira, Manaus, Amazonas, 5500, 2023-05-26 03:45:00, 5
+X358,Smartphone, Motorola, Moto E7 Power, Mobile Center, 4, 22, Gabriel Lima, Porto Alegre, Rio Grande do Sul, 1000, 2023-05-26 04:30:00, 3
+X359,Notebook, Acer, Aspire 5, Mega Store, 5, 38, Larissa Oliveira, São Luís, Maranhão, 3200, 2023-05-26 05:15:00, 4
+X360,Smart TV, LG, UN8000, Tech Store, 4, 20, Matheus Santos, Recife, Pernambuco, 2800, 2023-05-26 06:00:00, 5
+X361,Smartphone, Xiaomi, Redmi Note 7, Mobile Center, 3, 16, Rodrigo Lima, São Paulo, São Paulo, 1200, 2023-05-26 06:45:00, 3
+X362,Notebook, Lenovo, IdeaPad Flex 5, Info Shop, 4, 24, Carolina Oliveira, Belo Horizonte, Minas Gerais, 3200, 2023-05-26 07:30:00, 4
+X363,Smart TV, Samsung, TU7000, Tech Store, 5, 32, André Santos, Manaus, Amazonas, 3000, 2023-05-26 08:15:00, 5
+X364,Smartphone, Apple, iPhone XR, Best Deals, 4, 26, Gustavo Lima, Curitiba, Paraná, 4500, 2023-05-26 09:00:00, 4
+X365,Notebook, Dell, G3 15, Mega Store, 5, 36, Larissa Costa, São Luís, Maranhão, 5000, 2023-05-26 09:45:00, 5
+X366,Smart TV, Sony, XBR-55A8G, Tech Store, 4, 18, André Oliveira, Manaus, Amazonas, 5500, 2023-05-26 10:30:00, 4
+X367,Smartphone, Samsung, Galaxy A32, Eletrônicos S.A., 5, 24, Amanda Lima, Curitiba, Paraná, 1800, 2023-05-26 11:15:00, 4
+X368,Notebook, HP, Pavilion 14, Mega Store, 5, 32, Lucas Oliveira, São Luís, Maranhão, 3500, 2023-05-26 12:00:00, 5
+X369,Smart TV, LG, CX OLED, Tech Store, 4, 20, Pedro Santos, Recife, Pernambuco, 5000, 2023-05-26 12:45:00, 4
+X370,Smartphone, Motorola, Moto G60, Mobile Center, 3, 16, Marina Costa, São Paulo, São Paulo, 1800, 2023-05-26 13:30:00, 3
+X371,Notebook, Dell, XPS 13, Info Shop, 4, 24, Carolina Oliveira, Belo Horizonte, Minas Gerais, 7000, 2023-05-26 14:15:00, 5
+X372,Smart TV, Sony, XBR-65X900F, Tech Store, 5, 34, Gustavo Silva, Manaus, Amazonas, 4500, 2023-05-26 15:00:00, 4
+X373,Smartphone, Xiaomi, Redmi Note 8, Eletrônicos S.A., 4, 22, Gabriela Lima, Porto Alegre, Rio Grande do Sul, 1500, 2023-05-26 15:45:00, 4
+X374,Notebook, Lenovo, ThinkPad T14, Info Shop, 5, 38, Rafael Oliveira, Campinas, São Paulo, 6000, 2023-05-26 16:30:00, 5
+X375,Smart TV, Samsung, QLED Q60A, Eletrônicos S.A., 4, 26, Isabela Santos, Campinas, São Paulo, 3500, 2023-05-26 17:15:00, 4
+X376,Smartphone, Apple, iPhone SE, Best Deals, 5, 32, Lucas Costa, Recife, Pernambuco, 4000, 2023-05-26 18:00:00, 5
+X377,Notebook, Dell, Inspiron 14, Mega Store, 4, 28, Sabrina Costa, Belo Horizonte, Minas Gerais, 3200, 2023-05-26 18:45:00, 4
+X378,Smart TV, Sony, BRAVIA X85J, Tech Store, 5, 34, Isabela Oliveira, Manaus, Amazonas, 5500, 2023-05-26 19:30:00, 5
+X379,Smartphone, Motorola, Moto E7 Power, Mobile Center, 4, 22, Gabriel Lima, Porto Alegre, Rio Grande do Sul, 1000, 2023-05-26 20:15:00, 3
+X380,Notebook, Acer, Aspire 5, Mega Store, 5, 38, Larissa Oliveira, São Luís, Maranhão, 3200, 2023-05-26 21:00:00, 4
+X381,Smart TV, LG, UN8000, Tech Store, 4, 20, Matheus Santos, Recife, Pernambuco, 2800, 2023-05-26 21:45:00, 5
+X382,Smartphone, Xiaomi, Redmi Note 7, Mobile Center, 3, 16, Rodrigo Lima, São Paulo, São Paulo, 1200, 2023-05-26 22:30:00, 3
+X383,Notebook, Lenovo, IdeaPad Flex 5, Info Shop, 4, 24, Carolina Oliveira, Belo Horizonte, Minas Gerais, 3200, 2023-05-26 23:15:00, 4
+X384,Smart TV, Samsung, TU7000, Tech Store, 5, 32, André Santos, Manaus, Amazonas, 3000, 2023-05-27 00:00:00, 5
+X385,Smartphone, Apple, iPhone XR, Best Deals, 4, 26, Gustavo Lima, Curitiba, Paraná, 4500, 2023-05-27 00:45:00, 4
+X386,Notebook, Dell, G3 15, Mega Store, 5, 36, Larissa Costa, São Luís, Maranhão, 5000, 2023-05-27 01:30:00, 5
+X387,Smart TV, Sony, XBR-55A8G, Tech Store, 4, 18, André Oliveira, Manaus, Amazonas, 5500, 2023-05-27 02:15:00, 4
+X388,Smartphone, Samsung, Galaxy A32, Eletrônicos S.A., 5, 24, Amanda Lima, Curitiba, Paraná, 1800, 2023-05-27 03:00:00, 4
+X389,Notebook, HP, Pavilion 14, Mega Store, 5, 32, Lucas Oliveira, São Luís, Maranhão, 3500, 2023-05-27 03:45:00, 5
+X390,Smart TV, LG, CX OLED, Tech Store, 4, 20, Pedro Santos, Recife, Pernambuco, 5000, 2023-05-27 04:30:00, 4
+X391,Smartphone, Motorola, Moto G60, Mobile Center, 3, 16, Marina Costa, São Paulo, São Paulo, 1800, 2023-05-27 05:15:00, 3
